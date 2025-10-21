@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Disease Information</title>>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+    <div class="login">
+        <h1>Disease Information Lookup</h1>
+        <form action="{{ url_for('disease') }}" method="post"> 
+            <input type="text" name="disease_name" placeholder="Enter Disease Name" required="required" /> 
+            <button type="submit" class="btn btn-primary btn-block btn-large">Get Info</button> 
+        </form>
+
+        {% if prediction_text %}
+            <h2>{{ prediction_text }}</h2>
+        {% elif info %}
+            <h2>{{ info["Disease Name"] }} Details </h2>
+            <ul>
+                <li><strong>Category:</strong> {{ info["Category"] }}</li>
+                <li><strong>Plant Part Affected:</strong> {{ info["Plant Part Affected"] }}</li>
+                <li><strong>Symptoms Description:</strong> {{ info["Symptoms Description"] }}</li>
+                <li><strong>Severity Level:</strong> {{ info["Severity Level"] }}</li>
+                <li><strong>Season/Trigger Conditions:</strong> {{ info["Season/Trigger Conditions"] }}</li>
+                <li><strong>Natural Resolution:</strong> {{ info["Natural Resolution"] }}</li>
+                <li><strong>Chemical Resolution:</strong> {{ info["Chemical Resolution"] }}</li>
+                <li><strong>Preventive Measures:</strong> {{ info["Preventive Measures"] }}</li>
+                <li><strong>Detection Method:</strong> {{ info["Detection Method"] }}</li>
+                <li><strong>Days to Recovery:</strong> {{ info["Days to Recovery"] }}</li>
+                <li><strong>Impact on Yield:</strong> {{ info["Impact on Yield"] }}</li>
+                <li><strong>Stage of Plant Growth Affected:</strong> {{ info["Stage of Plant Growth Affected"] }}</li>
+                <li><strong>Region/Geography:</strong> {{ info["Region/Geography"] }}</li>
+            </ul>
+        {% endif %}
+
+        <a href="{{ url_for('Home') }}">Back to Home</a>
+    </div>
+</body>
+</html>

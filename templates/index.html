@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>ML API Home</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+  <div class="login">
+    <h1>Welcome to Smart AgriVision</h1>
+    <div>
+      <form action="{{ url_for('predict') }}" method="post" style="margin-bottom:8px;">
+        <button type="submit">Crop</button>
+      </form>
+      <form action="{{ url_for('disease') }}" method="post" style="margin-bottom:8px;">
+        <button type="submit">Disease</button>
+      </form>
+    </div>
+  </div>
+</body>
+</html>
