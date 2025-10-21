@@ -25,10 +25,10 @@ def get_disease_info(disease_name: str):
     return result.to_dict(orient="records")[0]  # Return first matching record
 
 @flask_app.route("/")
-def Home():
-    return render_template("index.html")
+def home():
+    return jsonify({"status": "Server is running"})
 
-@flask_app.route('/api/predict', methods=['POST'])
+@flask_app.route('/api/predict', methods=['GET','POST'])
 def api_predict():
     data = request.get_json()
     if not data:
@@ -43,7 +43,7 @@ def api_predict():
         return jsonify({"error": str(e)}), 500
 
 
-@flask_app.route('/api/disease', methods=['POST'])
+@flask_app.route('/api/disease', methods=['GET','POST'])
 def api_disease():
     data = request.get_json()
     disease_name = data.get("disease_name") if data else None
