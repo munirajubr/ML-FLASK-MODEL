@@ -1,10 +1,13 @@
 import numpy as np
 from flask import Flask, request, jsonify, render_template
 import pickle
-import os
+import os 
+from flask_cors import CORS
 
 # Create flask app
 flask_app = Flask(__name__)
+CORS(flask_app)
+
 crop_model = pickle.load(open("crop_model.pkl", "rb"))
 # This is for crop prediction
 
