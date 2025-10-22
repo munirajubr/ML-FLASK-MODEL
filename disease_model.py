@@ -3,7 +3,7 @@ import pickle
 
 
 # Load the disease dataset
-data = pd.read_csv("Dataset/eggplant_diseases.csv")  # update path if needed
+data = pd.read_csv("Dataset/eggplant_diseases.csv", encoding='latin1')  # update path if needed
 
 # Optional: check structure
 print("Dataset loaded successfully!")

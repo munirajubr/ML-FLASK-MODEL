@@ -8,8 +8,8 @@ flask_app = Flask(__name__)
 CORS(flask_app)
 
 crop_model = pickle.load(open("crop_model.pkl", "rb"))
-disease_data = pd.read_csv("Dataset/eggplant_diseases.csv")
-crop_data = pd.read_csv("Dataset/eggplant_details.csv")
+disease_data = pd.read_csv("Dataset/eggplant_diseases.csv", encoding='latin1')
+crop_data = pd.read_csv("Dataset/eggplant_details.csv", encoding='latin1')
 
 def get_disease_info(disease_name: str):
     """Fetch disease information from CSV dataset."""
