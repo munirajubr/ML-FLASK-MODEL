@@ -8,3 +8,4 @@ python-dotenv
 pymongo
 requests
 python-dateutil
+urllib3
