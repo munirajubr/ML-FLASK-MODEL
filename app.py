@@ -1,4 +1,3 @@
-# app.py
 import os
 import io
 import base64
@@ -20,16 +19,21 @@ from urllib3.util.retry import Retry
 # ---- load env ----
 load_dotenv()
 
-# ---- config ----
+# ---- config (from .env) ----
 MONGO_URI = os.getenv("MONGODB_URI") or os.getenv("MONGO_URI")
-DATABASE_NAME = os.getenv("DATABASE_NAME") or os.getenv("MONGO_DBNAME")
+DATABASE_NAME = os.getenv("DATABASE_NAME") or os.getenv("MONGO_DBNAME") or "AgriVision_IoT"
+
+BACKEND_DEVICES_URL = os.getenv("BACKEND_DEVICES_URL", "https://agrivision-mobile-app-using-react-native.onrender.com")
+MODEL_IOT_API_URL = os.getenv("MODEL_IOT_API_URL")
 MODEL_API_URL = os.getenv("MODEL_API_URL") or os.getenv("PREDICTION_API_URL")
+MODEL_IOT_CALL_URL = MODEL_IOT_API_URL or MODEL_API_URL
+
+PORT = int(os.getenv("PORT", "10000"))
 
 MODEL_API_TIMEOUT = float(os.getenv("MODEL_API_TIMEOUT", "60"))
 MODEL_API_MAX_RETRIES = int(os.getenv("MODEL_API_MAX_RETRIES", "3"))
 MODEL_API_BACKOFF_FACTOR = float(os.getenv("MODEL_API_BACKOFF_FACTOR", "1.0"))
 
-# optional API key
 MODEL_API_KEY = os.getenv("MODEL_API_KEY")
 MODEL_API_KEY_HEADER = os.getenv("MODEL_API_KEY_HEADER", "Authorization")
 
@@ -71,6 +75,7 @@ def create_retry_session(retries=3, backoff_factor=1.0, status_forcelist=(500,50
 
 prediction_session = create_retry_session(retries=MODEL_API_MAX_RETRIES, backoff_factor=MODEL_API_BACKOFF_FACTOR)
 
+# ---- helpers ----
 def _convert_bson(o):
     if isinstance(o, ObjectId):
         return str(o)
@@ -113,6 +118,221 @@ def _build_model_headers():
     if MODEL_API_KEY:
         headers[MODEL_API_KEY_HEADER] = MODEL_API_KEY
     return headers
+
+def _pick_image_from_device_data(device_data):
+    if not isinstance(device_data, dict):
+        return None
+    candidates = ("image", "image_base64", "image_url", "img", "photo", "picture", "saved_file")
+    for k in candidates:
+        if k in device_data and device_data[k]:
+            return device_data[k]
+    for k, v in device_data.items():
+        if isinstance(v, dict):
+            for c in candidates:
+                if c in v and v[c]:
+                    return v[c]
+    return None
+
+def _extract_prediction_from_raw(pred_raw):
+    if not pred_raw:
+        return None
+    if isinstance(pred_raw, dict):
+        if "prediction" in pred_raw and isinstance(pred_raw["prediction"], dict):
+            return pred_raw["prediction"]
+        if "class" in pred_raw and "confidence" in pred_raw:
+            return {
+                "class": pred_raw.get("class"),
+                "confidence": pred_raw.get("confidence"),
+                "confidence_percentage": pred_raw.get("confidence_percentage")
+            }
+        if "all_predictions" in pred_raw and isinstance(pred_raw["all_predictions"], list) and pred_raw["all_predictions"]:
+            first = pred_raw["all_predictions"][0]
+            if isinstance(first, dict):
+                return first
+        for v in pred_raw.values():
+            if isinstance(v, dict):
+                if "class" in v and "confidence" in v:
+                    return {"class": v.get("class"), "confidence": v.get("confidence")}
+                if "prediction" in v and isinstance(v["prediction"], dict):
+                    return v["prediction"]
+    if isinstance(pred_raw, list) and pred_raw:
+        if isinstance(pred_raw[0], dict):
+            return pred_raw[0]
+    return None
+
+def _extract_device_ids_from_response_json(j):
+    if isinstance(j, list):
+        return j
+    if not isinstance(j, dict):
+        return None
+    if "devices" in j and isinstance(j["devices"], list):
+        return j["devices"]
+    for k in ("data", "result", "payload"):
+        if k in j and isinstance(j[k], dict) and "devices" in j[k]:
+            if isinstance(j[k]["devices"], list):
+                return j[k]["devices"]
+    for k, v in j.items():
+        if isinstance(v, list) and all(isinstance(x, (str,int)) for x in v):
+            return v
+    return None
+
+def _build_backend_candidate_urls(base):
+    base = base.rstrip("/")
+    candidates = [base, base + "/api/devices/get", base + "/api/devices", base + "/devices/get", base + "/devices"]
+    seen = set()
+    out = []
+    for c in candidates:
+        if c not in seen:
+            seen.add(c)
+            out.append(c)
+    return out
+
+def _safe_str_from_bytes(maybe_bytes):
+    if maybe_bytes is None:
+        return None
+    if isinstance(maybe_bytes, str):
+        return maybe_bytes
+    if isinstance(maybe_bytes, bytes):
+        try:
+            return maybe_bytes.decode("utf-8")
+        except Exception:
+            return "base64:" + base64.b64encode(maybe_bytes).decode("ascii")
+    try:
+        return str(maybe_bytes)
+    except Exception:
+        return None
+
+def _make_json_safe(obj):
+    # primitives ok
+    if obj is None or isinstance(obj, (str, bool, int, float)):
+        return obj
+
+    # bytes -> base64
+    if isinstance(obj, bytes):
+        return "base64:" + base64.b64encode(obj).decode("ascii")
+
+    # numpy scalar numbers
+    try:
+        if isinstance(obj, np.generic):
+            if np.issubdtype(type(obj), np.integer):
+                return int(obj)
+            if np.issubdtype(type(obj), np.floating):
+                return float(obj)
+            if np.issubdtype(type(obj), np.bool_):
+                return bool(obj)
+            try:
+                return obj.item()
+            except Exception:
+                return str(obj)
+    except Exception:
+        pass
+
+    # numpy arrays -> lists
+    if isinstance(obj, np.ndarray):
+        try:
+            return obj.tolist()
+        except Exception:
+            return [_make_json_safe(x) for x in obj]
+
+    # ObjectId -> str
+    if isinstance(obj, ObjectId):
+        return str(obj)
+
+    # dict
+    if isinstance(obj, dict):
+        out = {}
+        for k, v in obj.items():
+            key = str(k)
+            out[key] = _make_json_safe(v)
+        return out
+
+    # list/tuple/set
+    if isinstance(obj, (list, tuple, set)):
+        return [_make_json_safe(i) for i in obj]
+
+    # requests.Response-like
+    try:
+        import requests as _requests
+        if isinstance(obj, _requests.Response):
+            safe = {
+                "status_code": getattr(obj, "status_code", None),
+                "url": _safe_str_from_bytes(getattr(obj, "url", None)),
+                "text_snippet": _safe_str_from_bytes(getattr(obj, "text", None))[:800] if getattr(obj, "text", None) else None,
+                "headers": dict(getattr(obj, "headers", {}) or {})
+            }
+            return _make_json_safe(safe)
+    except Exception:
+        pass
+
+    # other objects -> try convert to str
+    try:
+        return str(obj)
+    except Exception:
+        try:
+            return json.loads(json.dumps(obj))
+        except Exception:
+            return None
+
+def _fetch_device_ids_robust(username, backend_base, timeout):
+    debug = {"attempts": []}
+    headers = {"Accept": "application/json", "Content-Type": "application/json"}
+    candidates = _build_backend_candidate_urls(backend_base)
+
+    for url in candidates:
+        # GET ?username=
+        try:
+            resp = prediction_session.get(url, params={"username": username}, headers=headers, timeout=timeout)
+            s = getattr(resp, "status_code", None)
+            text_snippet = _safe_str_from_bytes(getattr(resp, "text", None))
+            debug["attempts"].append({"method": "GET?username", "url": _safe_str_from_bytes(getattr(resp.request, "url", url)), "status": s, "text_snippet": text_snippet})
+            if s and 200 <= s < 300:
+                try:
+                    j = resp.json()
+                except Exception:
+                    j = {"raw_text": text_snippet}
+                ids = _extract_device_ids_from_response_json(j)
+                if ids:
+                    return ids, debug
+        except requests.RequestException as e:
+            debug["attempts"].append({"method": "GET?username", "url": url, "error": _safe_str_from_bytes(str(e))})
+
+        # GET with JSON body (some clients used this)
+        try:
+            resp = prediction_session.get(url, json={"username": username}, headers=headers, timeout=timeout)
+            s = getattr(resp, "status_code", None)
+            req_body = _safe_str_from_bytes(getattr(resp.request, "body", None))
+            text_snippet = _safe_str_from_bytes(getattr(resp, "text", None))
+            debug["attempts"].append({"method": "GET(json)", "url": _safe_str_from_bytes(getattr(resp.request, "url", url)), "status": s, "req_body": req_body, "text_snippet": text_snippet})
+            if s and 200 <= s < 300:
+                try:
+                    j = resp.json()
+                except Exception:
+                    j = {"raw_text": text_snippet}
+                ids = _extract_device_ids_from_response_json(j)
+                if ids:
+                    return ids, debug
+        except requests.RequestException as e:
+            debug["attempts"].append({"method": "GET(json)", "url": url, "error": _safe_str_from_bytes(str(e))})
+
+        # POST JSON
+        try:
+            resp = prediction_session.post(url, json={"username": username}, headers=headers, timeout=timeout)
+            s = getattr(resp, "status_code", None)
+            req_body = _safe_str_from_bytes(getattr(resp.request, "body", None))
+            text_snippet = _safe_str_from_bytes(getattr(resp, "text", None))
+            debug["attempts"].append({"method": "POST", "url": _safe_str_from_bytes(getattr(resp.request, "url", url)), "status": s, "req_body": req_body, "text_snippet": text_snippet})
+            if s and 200 <= s < 300:
+                try:
+                    j = resp.json()
+                except Exception:
+                    j = {"raw_text": text_snippet}
+                ids = _extract_device_ids_from_response_json(j)
+                if ids:
+                    return ids, debug
+        except requests.RequestException as e:
+            debug["attempts"].append({"method": "POST", "url": url, "error": _safe_str_from_bytes(str(e))})
+
+    return None, debug
 
 # ---- Load local ML model & scaler and CSVs ----
 crop_model = None
@@ -190,6 +410,107 @@ def get_crop_info(crop_name: str):
 @app.route("/", methods=["GET"])
 def home():
     return jsonify({"status": "Server is running"})
+
+@app.route("/api/devices", methods=["POST"])
+def api_devices():
+    """
+    Returns:
+    {
+      "username": "...",
+      "devices": {
+         "<device_id>": [ {record1}, {record2}, ... ],
+         ...
+      }
+    }
+    Each device_id maps to a list of records (useful if you want to show multiple entries per device).
+    """
+    data = request.get_json(silent=True)
+    if not data:
+        return jsonify({"error": "JSON body required"}), 400
+
+    username = data.get("username")
+    if not username:
+        return jsonify({"error": "username is required"}), 400
+
+    backend_url = data.get("backend_devices_url") or BACKEND_DEVICES_URL
+    model_url = data.get("model_api_url") or MODEL_IOT_CALL_URL
+    headers = _build_model_headers()
+
+    device_ids, _debug = _fetch_device_ids_robust(username, backend_url, MODEL_API_TIMEOUT)
+    if not device_ids:
+        # return empty mapping if none
+        return jsonify(_make_json_safe({"username": username, "devices": {}})), 200
+
+    devices_map = {}  # device_id -> list of records
+
+    for device_id in device_ids:
+        # default clean record structure (omit device_id inside record - device_id is already the key)
+        record = {
+            "soil_moisture": None,
+            "temperature": None,
+            "humidity": None,
+            "image": None,
+            "created_at": None,
+            "prediction": None
+        }
+
+        model_json = None
+        # try model API
+        if model_url:
+            try:
+                resp = prediction_session.post(model_url, json={"device_id": device_id}, headers=headers, timeout=MODEL_API_TIMEOUT)
+                resp.raise_for_status()
+                model_json = resp.json()
+            except Exception:
+                model_json = None
+
+        # prefer device_data from model response
+        device_data = None
+        if isinstance(model_json, dict):
+            device_data = model_json.get("device_data") or model_json
+
+        # fallback to MongoDB if no device_data from model
+        if not device_data and mongo_db is not None:
+            try:
+                coll = mongo_db[device_id]
+                doc = coll.find_one(sort=[("_id", DESCENDING)])
+                if doc:
+                    device_data = _convert_bson(doc)
+            except Exception:
+                device_data = None
+
+        # if still no data, append empty record
+        if not device_data or not isinstance(device_data, dict):
+            # ensure key exists and append the empty record
+            devices_map.setdefault(device_id, []).append(record)
+            continue
+
+        # extract fields
+        record["soil_moisture"] = (
+            device_data.get("soil_moisture")
+            or device_data.get("soil")
+            or device_data.get("moisture")
+        )
+        record["temperature"] = device_data.get("temperature") or device_data.get("temp")
+        record["humidity"] = device_data.get("humidity") or device_data.get("humid")
+        record["created_at"] = (
+            device_data.get("created_at")
+            or device_data.get("predicted_at")
+            or device_data.get("_id")
+        )
+        record["image"] = _pick_image_from_device_data(device_data)
+
+        pred_raw = (
+            device_data.get("model_prediction_raw")
+            or device_data.get("model_prediction")
+            or device_data.get("prediction")
+        )
+        record["prediction"] = _extract_prediction_from_raw(pred_raw)
+
+        devices_map.setdefault(device_id, []).append(record)
+
+    response = {"username": username, "devices": devices_map}
+    return jsonify(_make_json_safe(response)), 200
 
 # IoT device endpoint (from your earlier code)
 @app.route("/api/iot_device", methods=["POST"])
@@ -395,7 +716,6 @@ def list_collections():
         logger.exception("Failed to list collections: %s", e)
         return jsonify({"error": "Failed to list collections", "details": str(e)}), 500
 
-
 # varify if IoT device data exists
 @app.route("/api/iot_device_exists", methods=["POST"])
 def api_iot_device_exists():
@@ -427,11 +747,7 @@ def api_iot_device_exists():
 
     return jsonify({"exists": True, "device_id": device_id}), 200
 
-
-
 # ---- run ----
 if __name__ == "__main__":
-    port = int(os.environ.get("PORT", 10000))
-    logger.info("Starting Flask server on port %s", port)
-    app.run(host="0.0.0.0", port=port)
-    
+    logger.info("Starting Flask server on port %s", PORT)
+    app.run(host="0.0.0.0", port=PORT)
