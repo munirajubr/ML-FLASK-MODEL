@@ -1,326 +1,2022 @@
 Disease Name,Category,Plant Part Affected,Symptoms Description,Severity Level,Season/Trigger Conditions,Natural Resolution,Chemical Resolution,Preventive Measures,Detection Method,Days to Recovery,Impact on Yield,Stage of Plant Growth Affected,Region/Geography,Cultural control 
-Alternaria Leaf Spot,Fungal Disease ,"Leaves,Stem","Small brown/black spots that develop into circular lesions with distinct concentric rings (""bullseye"" pattern). Center turns dry/brittle. Leads to yellowing and premature leaf drop.",Moderate to Severe (depending on humidity and plant health),"Warm temperatures (25–30°C),","1. Remove infected leaves immediately. 
-2. Increase air circulation (prune/space plants).
- 3. Avoid overhead watering (water at base)
-. 4. Use neem oil spray (natural antifungal).
- 5. Maintain clean soil (remove debris).
- 6. Rotate crops every season.","Use Mancozeb 75% WP (broad-spectrum) or Chlorothalonil 75% WP (contact). For severe cases, use Azoxystrobin + Difenoconazole (systemic combo). Spray every 7–10 days.","Maintain proper plant spacing. 
-Water in the morning at the base.
- Regularly remove dry/infected leaves.
- Apply preventive neem oil spray.
- Use drip irrigation. 
-Rotate crops.","Visual observation of brown/black circular spots with concentric rings. 
-Check for yellowing and early leaf drop. 
-Confirmed via microscopy for Alternaria spores.",1 to 7,"Reduces photosynthesis, causes early leaf drop, and decreases fruit size/quality. Yield loss ranges from 20% to 50% in severe cases.","All stages, but most severe during mid and late growth stages when foliage is dense and stress is high.","Widespread/Global. Common in tropical, subtropical, and temperate regions with warm and humid conditions (e.g., India, Southeast Asia, Mediterranean).",eliminating the fungal source (inoculum) and reducing the moisture/humidity conditions that allow the spores to thrive and spread.
-Aphids,Aphids,"shoot tips, young leaves, buds, and the underside of older leaves.","Curled, yellowed, or distorted leaves/stems due to sap feeding. Presence of sticky, shiny substance called honeydew (excrement), often leading to sooty mold growth. High numbers form dense colonies.",Moderate to Severe.,"spring, early summer, and fall","1. Hand remove/squish small colonies.
- 2. Spray plants with strong jets of water to knock them off.
- 3. Introduce natural predators (e.g., Ladybugs, Lacewings). 
-4. Apply insecticidal soap or neem oil spray every 5–7 days.
- 5. Prune/remove heavily infested stems. 
-6. Plant repellent companion plants (e.g., Catnip, Dill).","Use any ONE of the following insecticides: Imidacloprid (systemic, soil drench or spray), Lambda-cyhalothrin (contact pyrethroid), or Acetamiprid (systemic/contact). Use only when biological/cultural controls fail.","Monitor plants weekly, especially new growth.
- Avoid excessive nitrogen fertilization (limits tender growth).
- Encourage natural enemies (e.g., avoid broad-spectrum sprays). 
-Check new plants before introducing them.","Method*	Visual observation of small, pear-shaped insects (green, yellow, black) clustered on stems/leaf undersides. 
-Check for sticky honeydew or the presence of black sooty mold.",1 to 7,"Reduces plant vigor (stunting), decreases fruit/flower production, and can cause total crop loss due to viral transmission .","young seedlings and new, succulent growth.","Found in virtually all temperate, subtropical, and tropical growing regions where host plants are present.","Water Blast: Use a strong jet of water (e.g., from a hose) to physically knock aphids off plants, especially from leaf undersides.
-Manual Removal: Wipe off or prune heavily infested stems and leaves to immediately reduce the population.
-Promote Natural Enemies: Plant companion flowers (like dill or yarrow) to attract and support beneficial insects (Ladybugs, Lacewings).
-Avoid High-Nitrogen: Limit high-nitrogen fertilizers as they stimulate the soft, succulent growth preferred by aphids."
-Cercospora,Fungal Disease,"Primarily Leaves, but can also affect stems, petioles, and seed pods.","Small, circular to angular spots (3-5 mm). Characteristic feature: Tan or grey centers with a distinct reddish-purple or dark brown border. The center may dry and fall out, creating a ""shot-hole"" effect. Leads to severe yellowing and premature defoliation.",Moderate to Severe,Warm temperatures(23°Cto30°C),"1. Remove & Destroy infected leaf debris after harvest (inoculum source). 
-2. Increase Air Circulation (prune/space plants) to reduce leaf wetness time.
- 3. Switch to Drip Irrigation (avoid overhead watering). 
-4. Use Neem oil or a copper-based spray (organic option) every 7-10 days.
- 5. Control susceptible weeds that can host the fungus.","Use Chlorothalonil or Mancozeb (protectant/contact fungicides). For systemic control, use Propiconazole 25% EC, Difenoconazole, or a combination product like Carbendazim + Mancozeb (Rotate classes to prevent resistance).","Plant resistant cultivars where available.
- Practice 3-year crop rotation with non-host plants. 
-Use certified disease-free seed.
- Avoid working in fields when foliage is wet to prevent spore spread.
- Maintain balanced fertilization.","Visual observation of the small, characteristic tan/grey spots with dark purple borders on leaves. Check for heavy yellowing and leaf drop starting from the lower canopy.",7 to 10,"Severe defoliation reduces the plant's ability to photosynthesize, resulting in reduced root/fruit size and sugar content. Yield losses can reach 20% to 50% in severe, unmanaged outbreaks.",After canopy closure and during reproductive/yield development .,"Prevalent in warm, humid, and subtropical regions across all continents due to the fungus's ability to infect numerous crop and ornamental species.","Sanitation: Remove and destroy all infected plant residue (leaves, stems) from the field/garden immediately after harvest to eliminate the primary inoculum source.
-Crop Rotation: Implement a 3-year rotation with non-host crops (e.g., small grains, corn) to prevent the fungal spores from building up in the soil.
-Water Management: Switch to drip irrigation or water at the base of the plant in the morning. Avoid overhead watering to reduce the period of leaf wetness.
-Air Circulation: Ensure proper plant spacing and perform strategic pruning to promote air movement within the canopy, helping leaves dry quickly.
-Resistant Varieties: Plant certified disease-free seed and select resistant or tolerant cultivars whenever they are available for your crop.
-Field Hygiene: Avoid working or moving equipment through fields when foliage is wet, as this can easily spread fungal spores to healthy plants."
-Leaf Curl,Fungal Disease,"Primarily Leaves, but also occasionally young shoots, flowers, and fruit.","Thickened, curled, and distorted new leaves which often blister and pucker. The color changes from light green to vivid red or purple. Severely infected leaves turn yellow, brown, and drop prematurely. Leads to significant defoliation and weakened trees.",Moderate to Severe.,Cool and wet conditions in early spring.,"1. Prune out severely infected shoots (only if practical). 
-2. Rake up and destroy all dropped leaves to reduce fungal spores near the tree base. 
-3. Avoid overhead watering during the spring budding period.
- 4. Improve tree vigor through proper fertilization and care so it can produce a healthy second flush of leaves.","Fungicides are preventative and must be applied in late fall (after leaf drop) or late winter/early spring (before bud swell). Use Chlorothalonil or Copper-based fungicides (e.g., Copper Hydroxide). Apply only once per dormant season.","Apply dormant spray (Copper or Chlorothalonil) once in late fall or late winter/early spring before bud break (critical timing).
-Plant resistant cultivars (e.g., 'Frost', 'Redhaven'). Maintain tree health with balanced feeding.","Visual observation of the characteristic thickened, puckered, and brightly colored (red/purple) leaves appearing shortly after bud break in spring. Check for subsequent heavy leaf drop.",14 to 20,"Early defoliation forces the tree to spend energy on replacing leaves, drastically reducing fruit set and size. 
-Repeated annual defoliation can kill branches or entire young trees.",bud break stage,"Pacific Northwest US, UK, Central Europe, parts of Australia","Rake and Destroy Debris: Rake up and remove all fallen infected leaves immediately and destroy them (do not compost) to reduce the fungal inoculum near the tree.
-
-Improve Tree Vigor: Ensure the tree has adequate water and balanced nutrition after the infected leaves drop to support the growth of the replacement, healthy leaves (the ""second flush"").
-
-Pruning: Prune out any severely infected young shoots when symptoms are visible to remove fungal spores, though this is less effective than chemical control.
-
-Shelter/Drainage: Improve soil drainage and, if possible, plant the tree in a location that receives good air circulation and shelter from excessive spring rain.
-
-Avoid Wet Working: Do not prune or work near the tree when it is wet during the dormant or early spring period, as this can inadvertently spread spores."
-Phomopsis Blight and Fruit Rot,Fungal Disease,"Fruit,Stems,Leaves","Fruit: Causes light brown, soft, sunken, watery spots that enlarge rapidly, often covering the entire fruit. Spots turn black and become studded with tiny black dots (fruiting bodies).
- Stem: Dark, elongated lesions (cankers) near the soil line or branching points, girdling the stem. 
-Leaves: Irregular brown spots with grey centers.",High,"Warm, wet, or rainy weather(25°Cto30°C)","1. Use certified disease-free seed.
-2. Remove and destroy all infected fruit and plant debris immediately. 
-3. Avoid overhead watering (use drip irrigation) to keep foliage dry.
-4. Stake plants to improve air circulation and prevent contact with soil.
-5. Solarize soil or rotate crops (4 years) to reduce soil inoculum.","Mancozeb 75% WP (broad-spectrum protectant) or Chlorothalonil (contact). For severe cases, use a systemic like Azoxystrobin (Strobilurin class). Apply on a 7–10 day schedule starting when fruit begins to set.",Plant resistant or tolerant varieties. Practice long crop rotations (4 years). Sanitize tools after working with infected plants. Use certified seed. Ensure proper plant spacing for airflow.,"Visual observation of the characteristic black, sunken, rotting fruit spots covered in small black dots (pycnidia). Check for dark, girdling cankers on the main stem.",1 to 7,"Total loss of marketable fruit in severe cases. Stem lesions can girdle the plant, causing wilting and plant death, severely reducing overall harvest.","All stages, from seedling to mature plant","warm, humid, and tropical climates 
-(e.g., Southeast Asia, India, Southern US).","Sanitation (Post-Harvest): Remove and completely destroy all crop residue (stems, leaves, dropped fruit) from the field after harvest. The fungus survives here for years.
-
-Seed Sourcing: Always use certified, disease-free seed or treat seed with a fungicide before planting, as the fungus is often seed-borne.
-
-Crop Rotation: Implement a long rotation (4 years or more) with non-solanaceous crops (not tomato, pepper, potato) to reduce soil inoculum levels.
-
-Water Management: Use drip or furrow irrigation to avoid wetting foliage and fruit, limiting the spread of spores.
-
-Pruning/Staking: Stake plants to keep fruit and leaves off the soil surface, and prune lower leaves to improve air circulation within the canopy.
-
-Resistant Varieties: Choose and plant resistant or tolerant eggplant varieties when available."
-Downy Mildew,Oomycete,"Primarily Leaves, but can also affect stems and flowers.","Upper Leaf Surface: Yellow, angular spots (limited by leaf veins). Lower Leaf Surface: Fuzzy, gray-to-purplish/blue-black downy growth (the spore-producing structures) directly beneath the yellow spots. Leaves eventually turn brown, dry up, and die.",High.,Cool to Mild temperaturesCool to Mild temperatures(10°Cto24°C)and High Humidity (near 100%),"1. Remove and destroy all infected plant material immediately. 
-2. Increase air circulation (prune/space plants).
-3. Avoid overhead watering (use drip irrigation) and water in the morning.
-4. Use resistant varieties where available.
-5. Solarize soil or rotate crops (3 years) to reduce soil inoculum.","Use protectants like Mancozeb 75% WP or Chlorothalonil. Effective systemic/specialized oomycete controls include Phosphorous Acid salts (e.g., Mono- and Di-potassium salts of Phosphorous Acid) or fungicides like Metalaxyl or Propamocarb.","Plant resistant varieties.
-Manage moisture (use drip irrigation, ensure good drainage). 
-Increase plant spacing for airflow.
-Apply preventive fungicides during peak cool, wet periods. Destroy crop debris promptly.","Visual observation of yellow, angular spots on the top of leaves and the diagnostic fuzzy, downy growth on the corresponding lower leaf surface",7 to 10,"Total crop loss is possible. Severe, rapid defoliation prevents fruit/tuber/leaf development, resulting in drastically reduced marketable yield and quality.",All stages when environmental conditions are favorable.,"cool, moist coastal regions or areas experiencing frequent rain, heavy dew, or fog
-(e.g., Western Europe, coastal California, humid highlands).","Water Management (Critical): Switch to drip or furrow irrigation and avoid wetting the leaves. Water only in the morning so foliage can dry quickly.
-
-Air Circulation & Spacing: Increase plant spacing and perform strategic pruning to promote rapid air movement and drying of the leaf surface.
-
-Resistant Cultivars: Plant varieties known to be resistant to specific Downy Mildew races affecting your crop.
-
-Sanitation: Remove and destroy all infected plant material, especially at the end of the season, as the pathogen survives in debris and soil.
-
-Weed Control: Control weeds in the crop area, as they can sometimes act as alternate hosts, harboring the pathogen.
-
-Site Selection: Plant in areas with good soil drainage and maximum sun exposure to minimize leaf wetness periods."
-FleaBeetles,Insect Pest,Leaves and Roots,"Leaves: Characteristic small, circular holes that look like they were made by a shotgun, resulting in a ""shot-hole"" appearance. Severe feeding can cause stunting and kill young seedlings.
-Roots: Larvae feed on roots, which can also stunt growth.",High on seedlings and transplants,dry spring weather and early summer,"1. Apply Diatomaceous Earth (DE) around plant bases to scratch and desiccate beetles.
-2. Use sticky traps to monitor/catch adults. 
-3. Spray plants with neem oil or insecticidal soap (repeat every 5-7 days). 4. Handpick large beetles (if practical). 
-5. Plant trap crops (e.g., radish) to divert beetles.","Carbaryl (contact insecticide) or Lambda-cyhalothrin (pyrethroid). For young seedlings, a soil drench of Imidacloprid (systemic) can provide early protection. Always check label for host crop use.","Delay planting until after peak beetle emergence. 
-Use row covers (physical barrier) immediately after planting. 
-Incorporate beneficial nematodes into the soil to control larvae. 
-Plant resilient transplants instead of direct seeding.","Visual observation of the small, metallic-colored beetles that jump like fleas when disturbed. Check leaves for the ""shot-hole"" damage.",7 to 10,"High Negative Impact on young crops, causing stand reduction and stunting. Lower impact on mature plants, unless severe root feeding by larvae occurs.",Seedling and transplant stage.,"Found wherever susceptible crops (especially Brassicas, nightshades, and corn) are grown.","Physical Exclusion: Immediately cover new seedlings or transplants with lightweight floating row covers to act as a physical barrier until the plants are mature enough to withstand damage.
-
-Timing: Delay planting susceptible crops until after the main initial flush of adult beetles has passed (typically later in spring).
-
-Soil Amendment: Use diatomaceous earth (DE) lightly dusted around the base of plants to damage the beetles' exoskeletons.
-
-Mulching: Use thick mulch to help keep the soil cool, which may discourage egg-laying.
-
-Water & Nutrition: Keep plants well-watered and fertilized to encourage vigorous growth, allowing them to tolerate and outgrow feeding damage.
-
-Crop Rotation: Practice crop rotation (avoid planting host plants in the same area year after year) to reduce the number of overwintering larvae/pupae in the soil.
-
-Trap Cropping: Plant highly susceptible crops (like radish or mustard) nearby early to lure beetles away from the main crop."
-Fruit Creaking,Physiological Disorder,Mature or nearing-mature Fruit.,"Cracks or splits develop on the fruit skin, typically starting near the stem end (concentric cracking) or running vertically from stem to blossom end (radial cracking). The cracking exposes the flesh, making the fruit susceptible to rot and unmarketable.",High,wide fluctuations in temperature or humidity.,"1. Maintain consistent soil moisture (critical). 
-2. Apply organic mulch to stabilize soil temperature and moisture. 
-3. Harvest fruit before major rain events if possible.
-4. Apply foliar sprays of calcium chloride to strengthen skin elasticity (preventative).","Calcium Chloride (CaCl2) or Calcium Nitrate foliar sprays can be used. These treatments strengthen the fruit cell walls and skin elasticity, reducing cracking, but must be applied preventatively during fruit development.",Use drip irrigation to ensure consistent water delivery. Mulch heavily to stabilize soil moisture. Select and plant crack-resistant varieties. Provide partial shade during intense afternoon sun to prevent extreme temperature swings.,Visual observation of physical breaks in the fruit skin (concentric or radial splits) as the fruit reaches maturity.,5 to 6,"Reduces the marketable yield significantly, as cracked fruit cannot be sold and must be discarded.",Late fruiting stage,fluctuating rainfall and high temperature/humidity swings,"Consistent Irrigation (CRITICAL): Use drip or soaker irrigation to provide a consistent, even supply of water, avoiding sudden soil saturation.
-
-Mulching: Apply a thick layer of organic mulch (straw, wood chips) around plants to stabilize soil temperature and minimize rapid fluctuations in soil moisture.
-
-Harvest Timing: Harvest mature fruit immediately before predicted heavy rainfall to minimize exposure to sudden water uptake.
-
-Variety Selection: Plant known crack-resistant or crack-tolerant varieties (this is the most effective long-term control).
-
-Shade Management: Provide light shading to protect fruit from intense mid-day sun, which can help regulate fruit temperature and prevent rapid skin hardening."
-Epilachna Beetles,Insect Pest,"Leaves , stems, and sometimes fruit.","Adults and larvae feed on the underside of leaves, scraping away the tissue (epidermis and parenchyma) and leaving the upper epidermis intact. This results in a distinctive lacy or skeletonized appearance. Severe feeding causes leaves to dry out and drop prematurely.",High,high humidity,"1. Handpick all visible eggs, larvae, and adults, and destroy them. 
-2. Spray plants forcefully with water to dislodge insects. 
-3. Apply Neem oil or insecticidal soap to the leaf undersides every 5–7 days. 
-4. Encourage natural enemies (e.g., parasitic wasps). 
-5. Plant resistant bush bean varieties.","Use Carbaryl or Malathion (contact insecticides). For systemic control, Acetamiprid can be effective. CRITICAL: Target the underside of the leaves for effective coverage.",Rotate crops (avoid planting beans in the same spot). Plant early to avoid peak infestation. Till soil in late fall to expose overwintering adults. Use row covers early in the season.,"Visual observation of skeletonized, lacy leaves. Check the underside of leaves for yellow-orange, oval adults (with black spots), spiny yellow larvae, and yellow/orange egg masses.",1 to 7,"Reduces the photosynthetic area, causing poor pod/fruit filling, resulting in significantly reduced yield and quality.",flowering and pod-setting stages,"North and Central America (especially Eastern US), and other bean-growing regions with warm, humid summers.","Handpicking and Destruction: Manually remove and crush or drop into soapy water all visible eggs (yellow clusters on the leaf underside), larvae (spiny yellow insects), and adults.
-
-Targeted Spraying: Use a strong jet of water to spray the underside of the leaves to dislodge adults and larvae.
-
-Crop Rotation: Implement a 3-year rotation with non-host crops (like corn or potato) to reduce the number of overwintering adults in the planting area.
-
-Timing and Variety: Plant bush beans early to allow them to set pods before the beetle population peaks, or choose resistant bush varieties over vining types.
-
-Residue Management: Till the soil deeply after harvest or in late fall to expose and kill overwintering adult beetles.
-
-Row Covers: Use floating row covers early in the season to prevent adult beetles from accessing young plants."
-Verticillium Wilt,Fungal Disease,"Vascular System (xylem), stems, leaves.","Lower, older leaves develop yellowish-brown areas between the main veins (interveinal chlorosis). Leaves eventually wilt and die, often affecting only one side of the plant or branch first. Stunting is common. Cutting the lower stem reveals dark brown discoloration in the vascular tissue (diagnostic sign).",High,Cool soil temperatures(18°Cto25°C),"1. Remove and destroy infected plants immediately upon detection.
-2. Practice long crop rotations (4-6 years) with non-host plants. 
-3. Solarize the soil during hot periods to kill the fungus (microsclerotia).
-4. Use resistant varieties (most effective). 
-5. Avoid deep cultivation to prevent spreading the fungus.",Fungicides are generally ineffective against Verticillium Wilt once infection is established because the fungus is inside the plant's vascular system. Control relies on cultural practices and resistant rootstocks/varieties.,Plant resistant cultivars or graft onto resistant rootstock. Avoid planting in infested soil (4-6 year rotation). Control susceptible weeds that can harbor the fungus. Maintain optimal soil moisture (avoiding overwatering).,Visual observation of one-sided wilting and yellowing of lower leaves. Confirmation: Cut the main stem near the soil line and look for dark brown ring (discolored vascular tissue).,No Recovery,"Wilting and stunting prevent normal flowering and fruit set, leading to severe reduction in fruit size and total yield.",All stages.,"Found in most temperate and Mediterranean regions, especially in fertile, slightly cool soils.","Crop Rotation (CRITICAL): Implement a long rotation (4 to 6 years) with non-host crops (e.g., corn, cereals, broccoli) to starve the fungus in the soil.
-
-Resistant Varieties: Plant resistant or tolerant varieties or use grafted plants with resistant rootstocks, which is the most reliable control method.
-
-Soil Solarization: Cover moist soil with clear plastic during the hottest months to raise the temperature high enough to kill the fungus (microsclerotia) in the top layer of soil.
-
-Sanitation: Remove and immediately destroy (do not compost) any infected plants, roots and all, to prevent further buildup of the fungus in the soil.
-
-Weed Control: Control susceptible weeds (e.g., nightshade, lamb's quarters) that can act as hosts for the fungus.
-
-Tillage Minimization: Avoid deep or excessive tillage in known infested areas, as this can spread the fungal microsclerotia."
-Fusarium Wilt,Fungal Disease,"Vascular System (xylem), stems, and leaves.","Initial symptom is wilting of lower leaves, often on one side of the plant or one branch (unilateral wilting). Lower leaves turn yellow (chlorotic), curl upward, dry out, and die. Stunting is common. Cutting the stem reveals dark brown internal discoloration of the vascular tissue (diagnostic sign).",High,Warm soil temperatures(24°Cto32°C) and soil conditions,"1. Remove and destroy all infected plants and roots immediately upon detection. 
-2. Practice long crop rotations (5-7 years) with non-host crops. 
-3. Raise the soil pH (e.g., using dolomitic lime) to make the environment less favorable for the fungus. 
-4. Solarize the soil during hot periods to reduce inoculum levels. 
-5. Plant resistant varieties (most critical control).","Fungicides are generally ineffective once symptoms appear, as the fungus is inside the plant's vascular system. Control relies almost entirely on cultural practices and resistant/grafted varieties. Some soil fumigants may be used in intensive production before planting.",Plant resistant cultivars (labeled as 'F' resistance). Avoid planting in infested soil (long rotation). Maintain neutral-to-alkaline soil pH (above 6.5). Sanitize tools after working in infested areas.,Visual observation of unilateral wilting and yellowing of lower leaves. Confirmation: Cut the main stem near the soil line and look for dark brown ring (discolored vascular tissue).,No Recovery,"Wilting and stunting severely impair nutrient and water transport, leading to poor fruit set and size, often resulting in a near-total loss of the affected crop.",All Stages,"Found in most agricultural regions, particularly where susceptible crops (tomatoes, bananas, cotton, ornamentals) are grown and soil temperatures are warm.","Resistant Cultivars (CRITICAL): Plant resistant or tolerant varieties (often denoted with 'F' on the label) or use grafted plants with resistant rootstock.
-
-Crop Rotation (LONG): Implement a long rotation (5 to 7 years) with non-host crops (e.g., cereals, broccoli, corn) to minimize the fungus's survival structures in the soil.
-
-Soil pH Management: Maintain a neutral or slightly alkaline soil pH (above 6.5) by adding lime or dolomitic lime, as the fungus is more active in acidic soil.
-
-Sanitation: Remove and destroy infected plants, including the roots, as soon as they are identified. Clean tools after use in affected areas.
-
-Soil Solarization: Cover moist soil with clear plastic during hot summer months to raise soil temperature and kill the fungus (chlamydospores) near the surface.
-
-Avoid Stress: Maintain optimal soil moisture and fertility to minimize plant stress, as stressed plants are more susceptible to severe symptoms."
-LeafhopperJassids,Insect Pest,"Leaves  stems, and flowers/buds","Direct Feeding: Yellowing, curling, and distortion of leaves, often starting at the tips or margins. Severe feeding causes ""hopperburn,"" where leaf tips turn brown and crisp. 
-Virus Transmission: The most critical damage is the spread of viral diseases (e.g., Tomato Yellow Leaf Curl Virus), leading to severe stunting and discoloration.",High,"Warm, dry weather","1. Monitor with yellow sticky traps to capture adults and track population. 2. Spray with a strong jet of water to dislodge pests. 
-3. Apply Neem oil or insecticidal soap (repeat every 5–7 days).
-4. Encourage natural enemies (e.g., parasitic wasps, spiders). 
-5. Use row covers to exclude early migrants.","Use Acetamiprid or Imidacloprid (systemic, highly effective against sucking pests). Lambda-cyhalothrin (contact pyrethroid) is also used. CRITICAL: Rotate chemical classes to prevent resistance.","Use reflective mulches (silver/white) to repel migrating adults. Plant resistant varieties (e.g., hairy-leaved cotton or potato). Destroy crop residues after harvest to reduce overwintering sites. Control susceptible weeds.","Visual observation of small (3-5 mm), wedge-shaped insects that walk sideways or hop/fly quickly when disturbed. Check for leaf curling, yellowing, and sticky traps.",1 to 7,"Causes severe stunting and reduced fruit/vegetable quality due to feeding and is the primary vector for numerous viral diseases, leading to near-total crop failure in severe cases.",All stages," Found in virtually all agricultural regions, especially problematic in tropical, subtropical, and warm temperate zones with prolonged dry seasons.","Physical Exclusion (CRITICAL): Cover susceptible crops with lightweight floating row covers immediately after planting to prevent winged adults from migrating onto plants.
-
-Repellent Mulches: Use reflective plastic or aluminum foil mulches on the ground to visually repel winged leafhoppers and reduce colonization.
-
-Water Blast: Use a strong stream of water from a hose to physically dislodge leafhoppers from plants.
-
-Weed Control: Keep the surrounding area clear of weeds that can act as alternate hosts or shelters for the pests.
-
-Encourage Predators: Attract natural enemies like spiders, lacewings, and parasitic wasps by minimizing broad-spectrum pesticide use.
-
-Host Resistance: Plant resistant cultivars (e.g., those with hairy leaves, which discourage feeding and egg-laying)."
-MagnesiumDeficiency,Physiological Disorder,"Older, Lower Leaves","Interveinal Chlorosis: Yellowing (chlorosis) that occurs between the leaf veins, while the veins themselves remain green. This starts on the older, lower leaves. As the deficiency progresses, the leaves may develop red/purple/brown spots, turn brittle, curl upward, and drop prematurely.",Moderate to Severe,acidic and high levels of competing nutrients,"1. Apply Dolomitic Lime to raise soil pH and provide Calcium and Magnesium. 
-2. Apply Epsom Salts (Magnesium Sulfate) as a quick-acting soil drench or foliar spray. 
-3. Reduce use of high-Potassium fertilizers that compete with Mg uptake. 4. Use organic compost/manure to improve soil structure and nutrient retention.","Epsom Salts (Magnesium Sulfate, MgSO4): Applied as a foliar spray (for quick relief) or soil application (for short-term correction). Dolomitic Limestone (long-term soil amendment, used to raise soil pH).","Test soil regularly to maintain adequate pH (6.0-6.5). Apply slow-release Dolomitic Limestone every 3-5 years in acidic soils. Use a balanced fertilizer that accounts for Mg needs, especially in sandy soils.","Visual observation of interveinal chlorosis specifically on the older/lower leaves. Soil and tissue testing can confirm low Magnesium levels and high antagonistic nutrient levels (K, Ca).",1 to 7,"Magnesium is central to chlorophyll production; deficiency reduces photosynthesis, leading to stunted growth, poor fruit quality, and reduced overall yield.",flowering and fruiting,"Especially common in areas with acidic soils, sandy soils","Soil Amendment: Apply Dolomitic Limestone to acidic soils to raise the pH and supply long-term, slow-release Magnesium and Calcium.
-
-Fertilization Balance: Review and reduce the application of high-Potassium (K) or high-Calcium (Ca) fertilizers, as these nutrients compete with Magnesium for uptake by the plant.
-
-Organic Matter: Incorporate large amounts of organic compost or aged manure to improve the soil's structure and its ability to hold onto Mg ions.
-
-Quick Fix: Use Epsom Salts  as a quick-acting, readily available source of Magnesium via a foliar spray or drench for immediate correction.
-
-Water Management: Avoid excessive overhead irrigation in sandy soils, which can lead to rapid leaching of mobile nutrients like Magnesium."
-Mosaic Virus Disease,Viral Disease,All above-ground parts,"Leaves: Characteristic irregular mottling of light green/yellow and dark green areas (the ""mosaic"" pattern). Leaves may be stunted, crinkled, distorted, or curled; sometimes causes ""shoe-string"" leaves.
-Plant: Overall stunting and reduced vigor.
-Fruit: Spots, rings, or abnormal color and shape.",High,All Seasons,"1. Immediately remove and destroy (bag and discard) all infected plants. 2. Control insect vectors (e.g., aphids) through biological or cultural methods. 
-3. Wash hands and sanitize tools (use bleach or 70%alcohol) after handling any plant. 
-4. Use certified, virus-free seed/plants. 
-5. Avoid planting susceptible crops near known host weeds.",No chemical cures exist for viral diseases in plants. Control focuses entirely on managing insect vectors (using Imidacloprid or Acetamiprid for aphids) and strict sanitation.,"Plant resistant/tolerant varieties. Use certified virus-free seed. Sanitize tools and hands frequently. Control insect vectors (aphids, thrips). Remove perennial weeds that harbor the virus.","Visual observation of the distinct mosaic/mottled pattern on new growth, coupled with stunting and distortion. Confirmed via ELISA tests or PCR (molecular methods) in a lab.",No Recovery,"Causes severe stunting, drastically reduces fruit size, quality, and quantity. Often leads to total crop loss if infection is widespread early.",All stages,"Found in virtually all agricultural regions, especially problematic in intensive production areas where handling and insect vector populations are high.","Strict Sanitation (CRITICAL): Wash hands thoroughly with soap and water and sanitize tools (using a 10%)bleach solution or 70%alcohol) after working with any plant, especially before touching healthy ones.
-
-Removal of Infected Plants: Promptly rogue (remove) and destroy (bag and discard) all symptomatic plants to eliminate the source of the virus.
-
-Vector Control: Manage insect pests (like aphids and leafhoppers) that transmit the virus using cultural methods (e.g., reflective mulch, row covers).
-
-Source Control: Use certified virus-free seeds and transplants. Never save seed from mosaic-infected plants.
-
-Weed Management: Control perennial weeds near the planting area, as they can act as reservoirs for the virus and insect vectors.
-
-Resistant Varieties: Choose and plant known virus-resistant or tolerant cultivars whenever available."
-Phomopsis Bright,Fungal Disease,"Stems , Leaves and Fruit","Stems: Dark brown/black, elongated lesions (cankers) that often girdle and kill seedlings or branches.
-Leaves: Irregular brown spots with grey or tan centers. 
-Fruit: Light brown, soft, sunken, watery spots that quickly turn black and become dotted with tiny black fruiting bodies (pycnidia).",High,"Warm, wet, and humid weather","1. Use certified disease-free seed. 
-2. Remove and destroy all infected plant material immediately. 
-3. Avoid overhead watering (use drip irrigation) to keep foliage dry. 
-4. Stake plants to improve air circulation and prevent contact with soil. 
-5. Solarize soil or rotate crops (4 years) to reduce soil inoculum.","Mancozeb 75% WP or Chlorothalonil (broad-spectrum protectants). For systemic control, Azoxystrobin or a combination product like Carbendazim + Mancozeb. Apply on a 7–10 day schedule starting before fruit set.",Plant resistant or tolerant varieties. Practice long crop rotations (4 years). Use certified seed. Sanitize tools after pruning. Ensure proper plant spacing for good airflow.,"Visual observation of the characteristic black, sunken, rotting fruit spots covered in small black dots (pycnidia). Check for dark, girdling cankers on the main stem near the soil line.",1 to 7,"Stem blight can girdle and kill the plant, drastically reducing overall harvest.",All stages,"Especially common in warm, humid, and tropical climates (e.g., Southeast Asia, India, Southern US).","Crop Rotation (LONG): Implement a long rotation (4 years or more) with non-host crops to significantly reduce the pathogen's survival in the soil.
-
-Source Control (Seed): Always use certified, disease-free seed or treat seed with a recommended fungicide, as the fungus is often seed-borne.
-
-Water Management: Use drip or furrow irrigation to avoid wetting the foliage and fruit, limiting spore spread via splash.
-
-Canopy Management: Stake and prune plants to improve air circulation and prevent lower leaves and fruit from touching the contaminated soil surface.
-
-Sanitation: Remove and completely destroy all crop residue (stems, leaves, dropped fruit) from the field immediately after harvest."
-Phytophthora Blight,Oomycete,"Roots, stems , leaves , and fruit .","Stems/Crown: Dark, water-soaked, spreading lesions that girdle the stem, often leading to sudden plant collapse/death. Leaves: Dark, spreading, water-soaked spots. 
-Fruit: Hard, leathery, dark brown spots that cause fruit collapse. The disease is characterized by rapid spread and plant death.",Extremely High,Warm temperatures(24°Cto30°C) and frequent rainfall/high humidity.,"1. Ensure excellent soil drainage (e.g., raised beds). 
-2. Avoid overwatering and saturated soil. 
-3. Remove and destroy all infected plants and fruit immediately. 
-4. Practice long crop rotation (4 years or more). 
-5. Plant resistant varieties (critical control).","Highly specialized fungicides are required, such as Mefenoxam (or Metalaxyl), Propamocarb, or Phosphorous Acid salts (e.g., Phos-acid). Protectants like Chlorothalonil or Mancozeb are used on foliage only for some species. Rotation is essential.",Improve soil drainage (use raised beds). Avoid waterlogging. Plant resistant varieties. Rotate crops (4+ years). Use drip irrigation and avoid splashing soil. Sanitize tools and shoes after working in wet areas,"Visual observation of sudden plant collapse/stem girdling near the soil line and dark, water-soaked lesions on stems, leaves, or fruit. Confirmation via a lab test for Phytophthora zoospores or mycelium.",No Recovery,"Total Crop Loss is common. The disease is destructive and often causes the entire crop to fail due to rapid, systemic infection and fruit rot.",All stages,"Extremely problematic in areas with poor soil drainage or frequent, heavy rainfall and high humidity during the warm growing season.","Drainage Management (CRITICAL): Plant crops in raised beds or on berms to ensure excellent, rapid water drainage and prevent soil from becoming waterlogged.
-
-Watering Technique: Use drip irrigation or furrow irrigation. Avoid overhead watering and overwatering to eliminate the free water necessary for zoospores to move.
-
-Rotation (LONG): Implement a long crop rotation (4 years or more) with non-host crops to starve the pathogen's survival structures (oospores) in the soil.
-
-Sanitation: Remove and destroy all infected plants and fruit immediately. Do not compost infected material.
-
-Resistant Varieties: Select and plant resistant or tolerant cultivars as the primary method of control in areas with a history of the disease.
-
-Hygiene: Avoid working in fields when they are wet to prevent the spread of the pathogen on tools, equipment, or shoes."
-Powdery Mildew,Fungal Disease,Leaves,"Appearance of white or grayish-white, powdery spots or patches that look like dustings of talcum powder. Usually starts on the older leaves and spreads. Leaves turn yellow, curl, distort, and may drop prematurely. Infected buds and flowers may fail to open.",Moderate to Severe.,Warm days and cool nights with moderate to high humidity,"1. Remove and destroy all heavily infected leaves/stems immediately. 
-2. Increase air circulation (prune/space plants) to reduce humidity within the canopy. 
-3. Apply a spray mixture of baking soda and liquid soap (or horticultural oils) weekly. 
-4. Avoid excessive nitrogen fertilizer, which promotes soft growth. 
-5. Plant resistant varieties.","Sulfur dust or wettable powder (preventative, contact). Potassium Bicarbonate (eradicant). Horticultural Oil (eradicant/smothering). Systemic options include fungicides in the DMI (Triazole) class, like Propiconazole or Myclobutanil.","Plant resistant cultivars. Ensure good air circulation and plant spacing. Water early in the day, but avoid overhead watering late in the day (to prevent high night humidity). Remove infected plant debris in the fall.","Visual observation of the distinct white or grayish, powdery patches on leaves and stems. Often found on the upper leaf surface first, unlike Downy Mildew.",7  to 10,"Reduced photosynthesis leads to poor fruit set, reduced fruit size, and premature senescence (aging/death) of leaves, lowering marketable yield and quality.",All Stages,Extremely common in areas with high day-to-night temperature fluctuations and high relative humidity within the plant canopy.,"Air Circulation (CRITICAL): Increase plant spacing and perform strategic pruning to allow rapid air movement and reduce humidity within the plant canopy.
-
-Watering Technique: Water plants primarily at the base using drip irrigation. If overhead watering is necessary, do it early in the morning to reduce night humidity.
-
-Sanitation: Remove and destroy all infected leaves, stems, and plant debris immediately and thoroughly after the season ends to eliminate overwintering spores.
-
-Plant Resistance: Choose and plant resistant or tolerant cultivars whenever available for your specific crop.
-
-Fertilization: Avoid excessive nitrogen fertilization, which produces soft, highly susceptible new growth."
-Shoot and Fruit Borer,Insect Pest,Tender Shoots/Stems and Fruit,"Shoots: Larvae bore into tender shoots, causing the shoot tips to droop, wither, and dry up (""dead heart"" symptom). 
-Fruit: Larvae bore into the developing fruit, feeding internally and leaving behind frass (excrement). Entry holes are often visible, making the fruit unmarketable.",High to Extremely High,"Warm, humid conditions","1. Install pheromone traps to monitor and trap male moths. 
-2. Clip and destroy all infested shoots (dead hearts) and fruit immediately. 3. Release parasitic wasps (e.g., Trathala flavo-orbitalis).
-4. Apply sprays of Neem Seed Kernel Extract (NSKE) or Bacillus thuringiensis (Bt) biopesticide. 
-5. Plant resistant/less preferred varieties.","Use Chlorantraniliprole (effective against Lepidopteran larvae), Lambda-cyhalothrin (pyrethroid), or Emamectin benzoate. CRITICAL: Use systemic or highly effective contact insecticides before larvae enter the shoot/fruit.",Use Pheromone traps for mass trapping. Remove and destroy infested plant parts. Rotate crops (avoid continuous planting of host crops). Use netting (physical barrier) to exclude moths.,"Visual observation of withered, drooping shoot tips (""dead hearts"") and pin-prick size holes with frass on fruit surfaces. Cut open shoots/fruit to find the pinkish-brown larva inside.",1 to 7,"Direct feeding damage makes most fruit unmarketable, leading to significant economic loss and reduced overall plant productivity.",All stages,Widespread in Asia and Africa. Highly problematic in tropical and subtropical regions where host crops (especially eggplant) are intensively grown year-round.,"Sanitation & Pruning (CRITICAL): Regularly monitor plants. Clip and destroy all wilting shoot tips (dead hearts) and bore-infested fruit immediately to kill the larva inside and break the pest cycle.
-
-Pheromone Traps: Install pheromone traps (5-10 traps per acre) to monitor the moth population and for mass trapping of male moths to disrupt mating.
-
-Residue Management: Remove and destroy all crop residue after harvest, as the pest can pupate and survive in old stems and debris.
-
-Physical Barrier: Use netting or mesh covers over the crop during periods of high moth activity to prevent egg-laying.
-
-Biological Sprays: Apply the biopesticide Bacillus thuringiensis (Bt) (effective against caterpillars) or Neem Seed Kernel Extract (NSKE) targeted at young larvae before they bore in.
-
-Water Management: Avoid water stress on plants to promote vigorous growth, helping them better tolerate initial shoot damage."
-Tobacco Mosaic Virus,Viral Disease,All above-ground parts,"Leaves: Distinctive, irregular mosaic or mottling pattern of light green/yellow and dark green areas. New growth is often stunted, distorted, crinkled, or puckered; sometimes causes leaf cupping. 
-Fruit: Ringspots, necrotic spots, or abnormal ripening. 
-Plant: Overall severe stunting and reduced vigor.",High,All seasons,"1. Immediately remove and destroy (bag and discard) all infected plants. 2. Wash hands thoroughly with soap after handling any plants. 
-3. Sanitize tools (use bleach or milk solution) after each use. 
-4. Avoid using tobacco products (cigarettes, cigars) while working with susceptible plants. 
-5. Use certified, virus-free seed/plants.","No chemical cures exist for viral diseases in plants. Control focuses entirely on strict sanitation and preventive measures. (TMV is not insect-transmitted, so vector control chemicals are irrelevant.)",Plant resistant/tolerant varieties. Use certified virus-free seed. Sanitize tools and hands frequently. Avoid using tobacco products near plants. Destroy crop residues promptly.,"Visual observation of the distinct mosaic/mottled pattern and distortion on young, developing leaves. Confirmed via ELISA tests or PCR in a lab.",No Recovery,"Causes severe stunting, drastically reduces fruit/leaf size and quality, and can lead to total crop loss if infection occurs early.",All Stages,"ound everywhere its host crops (tobacco, tomato, pepper) are grown, highly prevalent due to its easy mechanical transmission and stability.","Strict Sanitation (CRITICAL): Wash hands thoroughly and sanitize tools (using a 10% bleach solution, 70%alcohol, or a 20% milk solution) before handling healthy plants and after touching any potentially infected plant
-
-.Infected Plant Removal: Promptly rogue (remove) and destroy all symptomatic plants (including roots) to eliminate the source of the virus
-
-.Source Control (Seed/Plants): Use certified virus-free seeds and transplants. Never save seed from mosaic-infected plants.
-
-Avoid Tobacco Products: Individuals who use tobacco products (cigarettes, snuff, etc.) should thoroughly wash their hands with soap and water before handling plants, as TMV can be present in these products.
-
-Resistant Varieties: Choose and plant known virus-resistant or tolerant cultivars (often denoted with 'T' or 'TMV' on the label).
-
-Crop Rotation: While not essential (TMV survives for decades in dried plant material), destroying all crop residues and rotating crops helps reduce potential soil contamination."
-Tobacco Caterpillar,Insect Pests,"Leaves , Seedlings","Leaves: Young larvae feed gregariously, scraping the chlorophyll, leaving a ""windowpane"" effect. Older, large larvae feed voraciously, creating large, irregular holes in leaves, often consuming the entire leaf blade. 
-Seedlings: Large larvae act as cutworms, severing young plants at the base.",Extremely High,"Warm, humid conditions","1. Install pheromone traps (5-10/acre) to monitor and trap male moths. 
-2. Collect and destroy egg masses and young, gregariously feeding larvae manually. 
-3. Apply the biopesticide Bacillus thuringiensis (Bt) to young larvae. 
-4. Handpick large larvae (often found hidden under soil/debris). 
-5. Encourage parasitic wasps (e.g., Bracon spp.).",Use Chlorantraniliprole or Flubendiamide (highly effective against caterpillars). Lambda-cyhalothrin or Chlorpyrifos (for soil application against cutworms). CRITICAL: Apply when larvae are small (Bt is only effective then).,Use pheromonal traps for mass trapping. Deep summer plowing to expose pupae. Handpick and destroy egg masses. Rotate crops (avoid continuous planting of host crops). Plant early to escape peak populations.,"Visual observation of large, irregular holes in leaves and skeletonized young leaves. Check the underside of leaves for golden-brown, clustered egg masses. Look for large, dark, striped larvae hiding in the soil/debris during the day.",7  to 10,"Total Crop Loss is possible, especially in the seedling stage due to cutworm damage or rapid defoliation of mature plants, significantly reducing photosynthetic capability and yield.","All stages, but most damaging to young seedlings","Widespread in Asia, Africa, and Australia. Highly problematic in tropical and subtropical regions where host crops (tobacco, cotton, legumes, vegetables) are intensively grown","Pheromone Trapping: Install pheromone traps (5-10 per acre) immediately after planting to monitor the moth population and for mass trapping of male moths to disrupt mating.
-
-Manual Collection: Regularly monitor the underside of leaves for clustered, golden-brown egg masses and manually crush or remove them. Handpick and destroy large larvae, often found hiding during the day.
-
-Tillage/Plowing: Perform deep summer plowing or tilling to expose and kill pupae or larvae overwintering in the soil.
-
-Intercropping/Rotation: Intercrop with non-host plants or implement a crop rotation plan (avoid continuous host crop planting) to disrupt the life cycle.
-
-Water Barrier: Create a small water channel or trench around the field edges to trap migrating young larvae."
-Verticillium Wilt,Fungal Disease,"Vascular System (xylem), stems, leaves.","Lower leaves develop interveinal yellowing, then wilt and die, often affecting only one side of the plant or branch first (unilateral wilting). Cutting the lower stem reveals dark brown discoloration in the vascular tissue (diagnostic).",High,Cool soil temperatures in spring (18°Cto25°C),"1. Remove and destroy infected plants immediately. 
-2. Practice long crop rotations (4-6 years) with non-host plants. 
-3. Solarize the soil during hot periods. 
-4. Use resistant varieties (most effective). 
-5. Avoid deep cultivation to prevent spreading the fungus.",Fungicides are generally ineffective once infection is established (fungus is internal). Control relies heavily on cultural practices and resistant rootstocks/varieties.,Plant resistant cultivars or graft onto resistant rootstock. Avoid planting in infested soil (4-6 year rotation). Control susceptible weeds. Maintain optimal soil moisture (avoiding overwatering).,Visual observation of one-sided wilting and yellowing of lower leaves. Confirmation: Cut the main stem near the soil line and look for the dark brown ring (discolored vascular tissue).,No Recovery,"Wilting and stunting prevent normal flowering and fruit set, leading to severe reduction in fruit size and total yield.",young plant stage,"Found in most temperate and Mediterranean regions, especially in fertile, slightly cool soils.","Crop Rotation (CRITICAL): Implement a long rotation (4 to 6 years) with non-host crops (e.g., corn, cereals, broccoli) to starve the fungus in the soil.
-
-Resistant Varieties: Plant resistant or tolerant varieties or use grafted plants with resistant rootstocks, which is the most reliable control method.
-
-Soil Solarization: Cover moist soil with clear plastic during the hottest months to raise the temperature high enough to kill the fungus (microsclerotia) in the top layer of soil.
-
-Sanitation: Remove and immediately destroy (do not compost) any infected plants, roots and all, to prevent further buildup of the fungus in the soil.
-
-Weed Control: Control susceptible weeds (e.g., nightshade, lamb's quarters) that can act as hosts for the fungus.
-
-Tillage Minimization: Avoid deep or excessive tillage in known infested areas, as this can spread the fungal microsclerotia."
-Aster Yellows,Phytoplasma Disease,"All new growth; leaves, stems, flowers, and fruit.","General yellowing (chlorosis) of young, growing tissue. Leaves may turn pale yellow, sometimes with reddish streaks, and become stiff/erect. Flowers often turn green, become sterile, or develop into leafy structures (phyllody). Stunting and bushy growth (""witches'-broom"") are common.",High,"Warm , dry weather","1. Immediately remove and destroy all infected plants and their roots. 
-2. Control the Leafhopper vector using cultural methods (row covers, reflective mulch). 
-3. Remove susceptible perennial weeds (e.g., dandelions, plantain) that harbor the phytoplasma and the leafhopper vector. 4. Plant tolerant varieties where available.","Boron-based preservatives (e.g., Boron rods or gels) are inserted or painted onto the remaining sound timber to prevent re-infection. Copper or Zinc naphthenate solutions can also be used.",Use physical exclusion (row covers) to block leafhoppers. Plant resistant varieties. Control leafhopper populations. Remove perennial weeds that harbor the pathogen.,"Visual observation of general yellowing (chlorosis) of young growth, stunting, and characteristic flower greening (phyllody). Confirmed via specialized lab testing (PCR).",No Recovery,"Total Crop Loss is possible. The disease leads to severe stunting and sterility, making flowers and fruits unusable and unmarketable.","All stages, but symptoms are most obvious on newly developing shoots and flowers.",Prevalent in temperate and subtropical regions where the leafhopper vector is common and active.,"Vector Exclusion (CRITICAL): Cover susceptible crops with lightweight floating row covers immediately after planting to prevent leafhoppers from feeding and transmitting the phytoplasma.
-
-Infected Plant Removal: Promptly rogue (remove) and destroy all symptomatic plants (including roots) to eliminate sources of the phytoplasma.
-
-Weed Control: Control perennial weeds (especially those known to host leafhoppers like dandelions and plantains) both in and around the planting area.
-
-Repellent Mulches: Use reflective plastic or aluminum foil mulches on the ground to visually repel migrating leafhoppers.
-
-Resistant Varieties: Plant tolerant or resistant cultivars of highly susceptible crops (e.g., carrots, lettuce) whenever available."
+Alternaria Leaf Spot,Fungal Disease,"Leaves, stems, and occasionally fruits (in advanced infection stages)","Alternaria Leaf Spot begins as tiny brown or black specks on leaves that gradually enlarge into circular lesions with distinct concentric rings resembling a target pattern. The center of the spots becomes dry, brittle, and sometimes gray. Severe infections cause yellowing, leaf curling, early leaf drop, reduced photosynthesis, and overall weakening of plant growth. In humid conditions, a dark, velvety fungal layer may appear on the lesion surface.",High,"* Warm temperatures (25–30°C)
+* High humidity levels
+* Frequent rainfall or overhead irrigation
+* Poor air movement and dense plant spacing
+* Wet soil conditions
+* Presence of infected plant debris
+* Plant stress due to nutrient deficiency or drought","1. Remove and destroy infected leaves to prevent spread.
+2. Improve air circulation by providing proper spacing or light pruning.
+3. Avoid wetting the foliage; water only at the base of the plant.
+4. Ensure adequate sunlight to reduce moisture on leaf surfaces.
+5. Spray neem oil every 7 days to slow the fungal growth naturally.
+6. Apply compost tea or organic microbial solutions to strengthen plant immunity.
+7. Keep soil clean by removing fallen leaves or debris where fungus survives.
+8. Rotate crops each season to interrupt the fungal life cycle.
+9. Apply a light mulch layer to prevent soil splash transmitting spores.","Use any ONE of the recommended fungicides (according to label dosage):
+
+* Mancozeb 75% WP– Broad-spectrum control
+* Chlorothalonil 75% WP – Effective for leaf spot management
+* Copper Oxychloride 50% WP – Good for early to mid-infections
+* Azoxystrobin + Difenoconazole (combination fungicide) – Best for severe infections
+* Propiconazole 25% EC – Systemic fungicide for fast action
+
+Spray interval: Every 7–10 days until symptoms decline.
+Important: Rotate fungicides to prevent resistance buildup","* Maintain proper plant spacing for good airflow.
+* Water in the morning and avoid wetting leaves.
+* Remove dry, damaged, or infected foliage regularly.
+* Apply preventive neem oil spray every 10–14 days.
+* Enhance soil health with organic compost to boost immunity.
+* Avoid continuous planting of the same crop in one spot.
+* Use drip irrigation to reduce leaf wetness.
+* Keep the growing area clean from dead leaves and weeds.","* Visual inspection for brown or black spots with concentric rings.
+* Check for early leaf yellowing and defoliation.
+* Use a magnifying lens to observe fungal growth on the underside of leaves.
+* Laboratory confirmation using fungal culture or PCR diagnosis (optional).",7 to 20,"* Decreased photosynthesis from leaf damage
+* Premature leaf drop reducing plant energy
+* Smaller, poor-quality fruits
+* Overall yield losses ranging from **20% to 50%** in severe outbreaks","Affects all growth stages, but damage is greatest during **mid and late growth stages** when foliage is dense.","Widely observed across tropical, subtropical, and temperate regions, especially in:
+
+* India
+* Southeast Asia
+* Africa
+* South America
+* Mediterranean regions
+","Cultural control methods focus on modifying growing practices to reduce the survival, spread, and infection rate of the Alternaria fungus. The following cultural strategies are highly effective:
+
+* Use disease-free seeds and healthy planting material.
+* Maintain proper plant spacing to improve airflow and reduce humidity around leaves.
+* Water plants early in the morning and avoid overhead irrigation to keep foliage dry.
+* Rotate crops regularly and avoid planting susceptible crops in the same soil every season.
+* Remove and destroy infected leaves, fallen debris, and weeds that may harbor fungal spores.
+* Ensure proper field sanitation by cleaning tools and equipment before use.
+* Improve soil fertility with well-decomposed organic compost to enhance plant immunity.
+* Avoid excessive nitrogen fertilizers, as they promote dense foliage susceptible to infection.
+* Provide adequate sunlight by pruning overcrowded branches or thinning dense canopies.
+* Use mulch to prevent soil splash from spreading fungal spores onto leaves."
+Aphids,Insect Pest,"Leaves, stems, young shoots, buds, flowers, and sometimes roots (depending on species)","Aphids are tiny soft-bodied insects (green, black, brown, or yellow) that suck plant sap from tender parts. Infested leaves become curled, yellow, sticky, and distorted. The insects produce a sugary substance called honeydew, which leads to sooty mold growth. Heavy infestations stunt plant growth, weaken shoots, and cause flower and fruit deformities. Ants are often seen farming aphids due to honeydew secretion.",Moderate,"* Warm, dry climate
+* Excess nitrogen fertilizer
+* Dense or overcrowded planting
+* Poor airflow
+* Presence of ants (which protect aphids)
+* Weak plant health or stress conditions
+* Lack of natural predators (ladybugs, lacewings)
+* Young, tender plant growth
+","1. Wash aphids off with a strong jet of water.
+2. Remove heavily infested leaves or soft shoots.
+3. Apply neem oil every 5–7 days.
+4. Spray mild soap solution (liquid soap + water).
+5. Encourage natural predators (ladybirds, lacewings).
+6. Remove weeds and alternative host plants.
+7. Avoid overuse of nitrogen fertilizers.
+8. Use reflective mulches to repel aphids.","Use any ONE (follow recommended dosing):
+
+* Imidacloprid 17.8% SL – Strong systemic control
+* Thiamethoxam 25% WG – Fast systemic action
+* Lambda-cyhalothrin 5% EC – Foliar spray contact control
+* Acephate 75% SP – Effective for heavy infestations
+* Spirotetramat 15% OD – Long-lasting systemic control
+
+Spray interval: Every 10–14 days if needed.
+Important: Rotate insecticides to avoid resistance.","* Maintain plant spacing and airflow.
+* Apply neem oil regularly as a preventive spray.
+* Use yellow sticky traps for early detection.
+* Avoid excessive nitrogen fertilization.
+* Keep area free from weeds and soft-tissue host plants.
+* Encourage beneficial insects like ladybugs and lacewings.
+* Control ant movement around plants (ants protect aphids).","* Visual observation of clusters of small insects on young shoots and undersides of leaves
+* Sticky honeydew on leaves
+* Black sooty mold growing on honeydew
+* Leaf curling, yellowing, and stunted shoots
+* Ant trails climbing plants (indicating aphids above)",3 to 14,"* Reduced photosynthesis due to leaf damage
+* Poor fruit formation and flower drop
+* Stunted plant growth
+* Increased disease susceptibility (virus transmission)
+* Yield loss ranges from **15–40%** in severe infestati","Mostly affects early and mid-growth stages, especially where new tender shoots develop. Severe infestations can affect plants at any stage","Aphids occur worldwide, especially in:
+
+* India
+* Southeast Asia
+* Europe
+* Africa
+* North & South America
+* Mediterranean regions
+","Cultural practices to naturally reduce aphid infestation:
+
+* Use resistant or tolerant plant varieties whenever possible.
+* Maintain proper spacing to reduce humidity and prevent crowding.
+* Water plants adequately to keep them vigorous and less susceptible.
+* Prune overcrowded branches to improve ventilation and sunlight exposure.
+* Remove weeds that act as alternate hosts for aphids.
+* Avoid over-fertilizing with nitrogen, which encourages soft, aphid-friendly growth.
+* Use reflective mulches (silver/white) to repel aphids from plant surfaces.
+* Sanitize tools and equipment to prevent cross-contamination.
+* Remove plant residues and fallen debris after harvest to reduce overwintering sites.
+* Implement crop rotation to break pest buildup in soil.
+"
+Cercospora,Fungal Disease,Mainly leaves; occasionally stems and petioles in severe cases,"Cercospora Leaf Spot produces small, circular to irregular gray or brown lesions with distinct dark-purple or brown borders. As the spots expand, they may merge, forming larger blighted patches. Severe infection causes yellowing (chlorosis), leaf thinning, and premature defoliation. In moist conditions, a fine, grayish fungal growth may appear on the lesion surface. The disease weakens plants, reduces photosynthesis, and affects overall vigor.
+",Moderate,"* Warm temperatures (25–30°C)
+* High humidity or prolonged leaf wetness
+* Frequent rainfall or overhead irrigation
+* Dense plant spacing
+* Poor airflow around foliage
+* Presence of infected plant debris in the soil
+* Nutrient-stressed or weakened plants","1. Remove infected leaves to limit the spread of spores.
+2. Improve airflow by pruning or increasing spacing.
+3. Water at the base of the plant; avoid wetting leaves.
+4. Increase sunlight exposure to help dry foliage quickly.
+5. Spray neem oil every 7 days to slow fungal progress.
+6. Apply compost tea or bio-fungus sprays to strengthen plant immunity.
+7. Clean the soil surface by removing fallen leaves and debris.
+8. Rotate crops to disrupt the Cercospora life cycle.
+9. Use light mulching to prevent soil splash transmitting spores.","Use any ONE of the following fungicides (apply as per recommended dosage):
+
+* Mancozeb 75% WP – Good protective fungicide
+* Chlorothalonil 75% WP – Effective on leaf spot fungi
+* Copper Oxychloride 50% WP – Controls early infection
+* Azoxystrobin 250 SC – Strong systemic fungicide
+* Difenoconazole 25% EC – Effective against Cercospora species
+* Hexaconazole 5% EC – Systemic and long-lasting effect
+
+Spray interval: Repeat every 7–10 days until disease reduces.
+Important: Rotate fungicides to avoid resistance development.","* Maintain proper spacing to ensure good airflow.
+* Water early in the morning at the base of plants.
+* Remove and destroy infected or dry leaves regularly.
+* Avoid continuous cropping of susceptible crops in the same field.
+* Use disease-free seeds or certified planting material.
+* Improve soil health with organic compost and balanced nutrients.
+* Keep area free from weeds that may harbor the fungus.
+* Apply preventive neem oil or bio-fungicide sprays.","* Visual observation of gray or brown leaf spots with dark borders
+* Leaf yellowing and premature drop
+* Presence of fine fungal growth on lesions under humid conditions
+* Field diagnosis using hand lens
+* Optional: lab culture or microscopic examination for confirmation",10 to 25 ,"* Reduced photosynthesis due to leaf loss
+* Weak plant growth and reduced vigor
+* Smaller fruit/flower size depending on crop
+* Severe cases may lead to 20–40% yield loss","All stages, but most severe when foliage is dense during mid to late growth stages.
+","Cercospora Leaf Spot occurs widely in tropical, subtropical, and temperate regions, especially in:
+
+* India
+* Southeast Asia
+* Africa
+* South America
+* Southern USA
+* Mediterranean regions","Cultural practices to reduce Cercospora spread:
+
+* Use crop rotation to prevent fungal buildup in soil.
+* Maintain adequate plant spacing to reduce moisture around foliage.
+* Improve sunlight penetration by pruning or thinning dense canopies.
+* Remove plant residues promptly after harvest.
+* Use resistant or tolerant plant varieties where available.
+* Avoid working with wet plants to prevent spore transfer.
+* Apply balanced fertilization—avoid excess nitrogen.
+* Mulch soil lightly to prevent spore splash onto lower leaves.
+* Ensure proper drainage to avoid standing water.
+* Keep tools and pruning equipment sanitized.
+"
+Cercospora Leaf Spot,Fungal Disease,Mainly leaves; occasionally stems and petioles in severe cases,"Cercospora Leaf Spot produces small, circular to irregular gray or brown lesions with distinct dark-purple or brown borders. As the spots expand, they may merge, forming larger blighted patches. Severe infection causes yellowing (chlorosis), leaf thinning, and premature defoliation. In moist conditions, a fine, grayish fungal growth may appear on the lesion surface. The disease weakens plants, reduces photosynthesis, and affects overall vigor",Moderate,"* Warm temperatures (25–30°C)
+* High humidity or prolonged leaf wetness
+* Frequent rainfall or overhead irrigation
+* Dense plant spacing
+* Poor airflow around foliage
+* Presence of infected plant debris in the soil
+* Nutrient-stressed or weakened plants","1. Remove infected leaves to limit the spread of spores.
+2. Improve airflow by pruning or increasing spacing.
+3. Water at the base of the plant; avoid wetting leaves.
+4. Increase sunlight exposure to help dry foliage quickly.
+5. Spray neem oil every 7 days to slow fungal progress.
+6. Apply compost tea or bio-fungus sprays to strengthen plant immunity.
+7. Clean the soil surface by removing fallen leaves and debris.
+8. Rotate crops to disrupt the Cercospora life cycle.
+9. Use light mulching to prevent soil splash transmitting spores.","Use any ONE of the following fungicides (apply as per recommended dosage):
+
+* Mancozeb 75% WP – Good protective fungicide
+* Chlorothalonil 75% WP – Effective on leaf spot fungi
+* Copper Oxychloride 50% WP – Controls early infection
+* Azoxystrobin 250 SC – Strong systemic fungicide
+* Difenoconazole 25% EC – Effective against Cercospora species
+* Hexaconazole 5% EC – Systemic and long-lasting effect
+
+Spray interval: Repeat every 7–10 days until disease reduces.
+Important: Rotate fungicides to avoid resistance development.","* Maintain proper spacing to ensure good airflow.
+* Water early in the morning at the base of plants.
+* Remove and destroy infected or dry leaves regularly.
+* Avoid continuous cropping of susceptible crops in the same field.
+* Use disease-free seeds or certified planting material.
+* Improve soil health with organic compost and balanced nutrients.
+* Keep area free from weeds that may harbor the fungus.
+* Apply preventive neem oil or bio-fungicide sprays.
+","* Visual observation of gray or brown leaf spots with dark borders
+* Leaf yellowing and premature drop
+* Presence of fine fungal growth on lesions under humid conditions
+* Field diagnosis using hand lens
+* Optional: lab culture or microscopic examination for confirmation",10 to 25 ,"* Reduced photosynthesis due to leaf loss
+* Weak plant growth and reduced vigor
+* Smaller fruit/flower size depending on crop
+* Severe cases may lead to 20–40% yield loss","All stages, but most severe when foliage is dense during mid to late growth stages.","Cercospora Leaf Spot occurs widely in tropical, subtropical, and temperate regions, especially in:
+
+* India
+* Southeast Asia
+* Africa
+* South America
+* Southern USA
+* Mediterranean regions
+","Cultural practices to reduce Cercospora spread:
+
+* Use crop rotation to prevent fungal buildup in soil.
+* Maintain adequate plant spacing to reduce moisture around foliage.
+* Improve sunlight penetration by pruning or thinning dense canopies.
+* Remove plant residues promptly after harvest.
+* Use resistant or tolerant plant varieties where available.
+* Avoid working with wet plants to prevent spore transfer.
+* Apply balanced fertilization—avoid excess nitrogen.
+* Mulch soil lightly to prevent spore splash onto lower leaves.
+* Ensure proper drainage to avoid standing water.
+* Keep tools and pruning equipment sanitized."
+Curl,Viral Disease,"Leaves, young shoots, growing tips, flower buds, and sometimes fruits (indirect effects)","Leaf Curl Virus causes severe curling, twisting, and upward cupping of young leaves. Leaves become thick, brittle, yellowish, and deformed. Shoots show stunted growth, reduced branching, and shortened internodes. The plant appears dwarfed with weak flowering and poor fruit formation. In advanced cases, the entire canopy becomes distorted, reducing plant vigor drastically. Whiteflies are the main vectors transmitting the virus.",High,"* Hot and dry climate
+* High whitefly population
+* Poor field sanitation
+* Overcrowded planting
+* Weedy surroundings
+* Early-season infection (most damaging)
+* Tender new plant growth (highly susceptible)
+* Continuous cropping of susceptible hosts","1. Remove and destroy infected leaves or heavily affected shoots.
+2. Control whiteflies using neem oil or soap sprays.
+3. Improve ventilation by pruning overly dense foliage.
+4. Water plants at the base; avoid creating humid microclimates.
+5. Apply neem-based extracts (weekly) to suppress whitefly activity.
+6. Keep the field free of weed hosts such as wild tomato or nightshade.
+7. Improve plant nutrition with organic compost to strengthen immunity.
+8. Use sticky yellow traps to reduce whitefly attraction.
+
+Note: Viral diseases cannot be cured—natural management reduces spread and severity.","Chemical control focuses on whitefly management (virus vector):
+
+Use any ONE of the following insecticides:
+
+* Imidacloprid 17.8% SL – Strong systemic vector control
+* Thiamethoxam 25% WG – Fast knockdown of whiteflies
+* Pyriproxyfen 10% EC – Effective on whitefly nymph stages
+* Spirotetramat 15% OD – Long-lasting systemic control
+* Buprofezin 25% SC – Growth regulator for whitefly nymphs
+
+Spray interval: Every 7–10 days depending on infestation.
+Important: Rotate insecticides to avoid resistance.","* Use virus-free seedlings or certified planting material.
+* Install yellow sticky traps to monitor and control whiteflies early.
+* Maintain adequate plant spacing for airflow.
+* Keep field/garden free from weeds and alternate hosts.
+* Cover nursery seedlings with netting to prevent vector entry.
+* Apply neem oil or botanical extracts weekly as preventive sprays.
+* Avoid planting susceptible crops near heavily infected fields.
+* Improve soil fertility to reduce stress in young plants.","* Visual observation of upward leaf curling, thickened leaves, and yellowing
+* Stunted shoots and poor flowering
+* High presence of whiteflies under leaves
+* Sticky traps for vector monitoring
+* Laboratory PCR test (optional) for confirming the virus",7 to 20,"* Reduced leaf area → lower photosynthesis
+* Poor root, shoot, and flower development
+* Smaller and fewer fruits
+* In severe early infections, plants may produce almost no yield
+* Yield losses range from 30% to 80% depending on crop and stage","All stages, but early-stage infection results in the most severe damage and highest yield loss.","Widespread in tropical and subtropical regions, including:
+
+* India
+* Southeast Asia
+* Africa
+* South & Central America
+* Middle East
+* Southern Europe","Cultural practices to reduce Leaf Curl spread:
+
+* Follow strict crop rotation with non-host crops.
+* Use whitefly-proof netting in nurseries.
+* Remove and destroy infected plants early to reduce virus load.
+* Maintain weed-free surroundings (weeds harbor virus + whiteflies).
+* Use mulches to reduce soil splash and stabilize microclimate.
+* Avoid continuous monocropping of susceptible crops like chilli and tomato.
+* Promote natural enemies such as ladybirds, lacewings, and parasitoids.
+* Avoid working in the field when foliage is wet to prevent vector movement.
+* Prune overcrowded branches to reduce humidity and increase airflow."
+Defect Eggplant,Insect Pest,"Young shoots, stems, flower buds, fruits (internal and external damage)","Eggplant Fruit and Shoot Borer causes severe deformities and internal damage in eggplant. Larvae bore into tender shoots, causing wilting and drying of young branches. In fruits, the larvae make holes near the calyx and feed internally, leaving tunnels filled with excreta. Infested fruits become deformed, discolored, lightweight, and unmarketable. The insect causes “hidden damage,” as external symptoms are often minimal while internal fruit tissue is destroyed.",High,"* Warm temperatures (25–32°C)
+* High humidity
+* Dense plantation without pruning
+* Continuous eggplant cropping
+* Presence of weeds and alternate hosts
+* Peak population during flowering and fruiting season
+* Poor field sanitation","1. Handpick and destroy infested shoots and fruits.
+2. Remove larvae found in freshly bored shoots or fruits.
+3. Use pheromone traps to catch male moths.
+4. Install light traps in the evening to reduce moth population.
+5. Encourage natural enemies like Trichogramma parasitoids and ladybirds.
+6. Prune and destroy wilted or bored shoots promptly.
+7. Keep the field weed-free to eliminate alternate hosts.
+8. Practice regular harvesting to remove infested fruits early.","Use any ONE (as per recommended dosage):
+
+* Emamectin Benzoate 5% SG – Very effective on larvae
+* Spinosad 45% SC – Controls early larval stages
+* Flubendiamide 20% WG – Long-lasting caterpillar control
+* Lambda-cyhalothrin 5% EC – Effective foliar spray
+* Chlorantraniliprole 18.5% SC – Highly effective against borers
+
+Spray interval: Every 10–12 days during fruiting stage.
+Note: Rotate insecticides to avoid resistance","* Use resistant eggplant varieties where available.
+* Remove infested fruits and shoots regularly.
+* Install pheromone traps @ 40–50 traps per hectare.
+* Maintain proper spacing for good airflow.
+* Use nylon netting around nursery seedlings.
+* Apply neem seed kernel extract (NSKE 5%) or neem oil weekly.
+* Practice timely pruning to open the plant canopy.
+* Avoid continuous monocropping of eggplant in the same field.","* Entry holes on fruits near calyx.
+* Wilting or drying of tender shoots.
+* Internal fruit boring with frass (insect waste).
+* Pheromone trap catches used to detect adult moths.
+* Visual inspection of immature shoots for larval entry.",5 to 20,"* Internal fruit damage → unmarketable produce
+* Reduced fruit size and weight
+* Severe infestations may reduce yield by 30%–70%
+* Loss of plant vigor due to damaged shoots","All stages, but most severe during:
+
+* Flowering stage
+* Fruit development stage","Widely distributed across eggplant-growing regions:
+
+* India
+* Southeast Asia
+* Bangladesh
+* Africa
+* Middle East
+* South America
+* Southern China","Cultural strategies to reduce EFSB infestation:
+
+* Use crop rotation with non-host crops (legumes, cereals).
+* Plant trap crops like marigold around the field.
+* Prune lower branches to improve sunlight penetration.
+* Maintain field sanitation—remove all crop residues after harvest.
+* Avoid late sowing which increases pest risk.
+* Use fine-mesh insect nets in nurseries and early stages.
+* Destroy infested fruits by burying them deep or burning.
+* Remove alternate weed hosts such as Solanum species.
+* Regularly monitor with pheromone traps for early detection.
+* Apply balanced fertilizers—avoid excessive nitrogen."
+Downy mildew,Fungal-like Disease (Oomycete),"Leaves (primary), stems, petioles, sometimes young fruits depending on crop","Downy Mildew begins as pale-yellow or light-green irregular spots on the upper leaf surface. These spots enlarge and turn brown or purple. On the underside of leaves, a characteristic grayish-white to purplish downy growth (fungal-like spores) appears in humid conditions. Infected leaves curl downward, dry prematurely, and fall off. Severe infection leads to defoliation, weak plant growth, poor fruit set, and reduced yield.",High,"* Cool–humid conditions (15–22°C)
+* High relative humidity (>85%)
+* Prolonged leaf wetness due to dew, fog, or rain
+* Poor air circulation
+* Dense planting
+* Overhead irrigation
+* Cloudy weather lasting several days","1. Remove infected leaves immediately to reduce spore load.
+2. Improve ventilation by pruning overcrowded foliage.
+3. Reduce leaf wetness—water at the base early in the morning.
+4. Increase sunlight exposure by adjusting canopy density.
+5. Apply neem oil or garlic extract weekly to slow disease spread.
+6. Remove plant debris from soil surface.
+7. Improve soil drainage to avoid humidity buildup.
+8. Rotate crops with non-host species to break the disease cycle.
+9. Use resistant varieties, if available.","Use any ONE of the following fungicides (as per recommended dosage):
+
+* Metalaxyl-M + Mancozeb – Highly effective for Downy Mildew
+* Dimethomorph 50% WP – Very effective systemic control
+* Azoxystrobin 250 SC – Good preventive and curative action
+* Cymoxanil + Mancozeb – Quick knockdown + protective effect
+* Propamocarb 722 SL – Strong systemic action for oomycetes
+* Copper Oxychloride 50% WP – Effective in early stages
+
+Spray interval: Every 7–10 days during favorable weather.
+Important: Rotate fungicides to prevent resistance.","* Maintain proper spacing for good airflow.
+* Water early in the day and avoid wetting foliage.
+* Keep field free from weeds and leftover plant debris.
+* Use resistant or tolerant varieties when available.
+* Apply preventive fungicides before rainy or humid seasons.
+* Avoid overhead irrigation during cool, humid periods.
+* Improve soil health with compost and balanced nutrients.
+* Use mulching to reduce soil splash and moisture imbalance.","* Visual observation of yellow angular lesions on upper leaf surface
+* Grayish-white downy growth on underside of leaves
+* Premature leaf drop and stunted growth
+* Lab confirmation through microscopic examination of spores
+* Field diagnostic strips available for some crops (optional)",10 to 25,"* Reduced leaf area → lower photosynthesis
+* Premature leaf drop leading to weak plant growth
+* Poor fruit set and smaller fruits
+* In severe outbreaks, yield losses range from 20% to 70%","All stages, but most damaging during mid to late growth stages, particularly in cool and humid seasons.","Common in cool–humid regions worldwide, especially:
+
+* India
+* Southeast Asia
+* Europe
+* Africa
+* North & South America
+* Mediterranean climates","Cultural practices to reduce Downy Mildew development:
+
+* Follow crop rotation with non-susceptible crops for 2–3 years.
+* Ensure wide spacing to reduce humidity around the canopy.
+* Train or prune plants to increase sunlight penetration.
+* Avoid working in fields when foliage is wet to prevent spore transfer.
+* Remove infected leaves and destroy them away from the field.
+* Provide good drainage to avoid stagnant moisture.
+* Use drip irrigation instead of overhead sprinklers.
+* Avoid excessive nitrogen application, which leads to dense, disease-prone foliage.
+* Install protective netting in nurseries to reduce humidity buildup."
+Flea Beetles,Insect Pest,"Leaves (primarily), stems, seedlings, and sometimes roots (species-specific)","Flea Beetles are small, shiny, jumping beetles that cause tiny round holes (shot-hole damage) on leaves. Infested seedlings show pitting, skeletonization, and slowed growth. Young plants may wilt, weaken, or die due to repeated feeding. Older plants develop uneven, perforated leaves with reduced photosynthetic capacity. In some species, larvae feed on roots, causing stunted growth and reduced plant vigor.",High,"* Warm and dry weather
+* Early spring or early crop stages
+* Weedy fields (preferred breeding grounds)
+* Heavy presence of alternate hosts (mustard, radish, nightshade)
+* Tender seedlings and young plants
+* Light, sandy soils where movement is easy
+* Recently tilled fields that disturb soil insects","1. Handpick beetles early in the morning when movement is slow.
+2. Use yellow sticky traps to catch adult beetles.
+3. Apply neem oil spray every 5–7 days to reduce feeding.
+4. Remove badly damaged leaves or seedlings.
+5. Encourage natural predators like ground beetles and spiders.
+6. Use trap crops (radish or mustard) to divert the insects.
+7. Maintain field hygiene by removing weeds that host the beetles.","Use any ONE of the following insecticides (as per recommended dosage):
+
+* Imidacloprid 17.8% SL – Systemic control
+* Thiamethoxam 25% WG – Strong early-season protection
+* Lambda-cyhalothrin 5% EC – Fast foliar knockdown
+* Cypermethrin 10% EC – Effective contact insecticide
+* Spinosad 45% SC – Works well on adult beetles
+
+Spray interval: Every 10–12 days depending on infestation.
+Important: Rotate insecticides to prevent resistance.","* Maintain proper plant spacing and strong plant health.
+* Cover seedlings with fine insect netting to prevent adult entry.
+* Remove weeds and alternate hosts regularly.
+* Use neem oil or botanical insecticides as regular preventives.
+* Avoid planting highly susceptible crops near infested fields.
+* Apply organic compost to boost plant vigor and tolerance","* Visual observation of small, round “shot-hole” holes on leaves
+* Jumping beetles visible on leaves when disturbed
+* Presence of beetles under direct sunlight on young plants
+* Seedlings showing slowed growth or wilting
+* Yellow sticky traps capturing adult beetles",5 to 20,"* Reduced leaf area lowers photosynthesis
+* Seedlings may die, reducing overall plant population
+* Reduced plant vigor leads to smaller fruits or tubers
+* Severe infestations may cause 20–50% yield loss depending on crop","Most damaging to seedlings and early growth stages, but can affect plants at any stage.","Common worldwide, especially in:
+
+* India
+* Southeast Asia
+* Africa
+* North & South America
+* Europe
+* Mediterranean regions","Cultural practices to reduce Flea Beetle attacks:
+
+* Use proper crop rotation with non-host crops.
+* Mulch around plants to hinder beetle movement and egg-laying.
+* Use trap crops like radish, mustard, or turnip to attract beetles away from the main crop.
+* Maintain weed-free fields, especially Mustard family weeds (Crucifers).
+* Plant seedlings slightly later when beetle populations decline.
+* Intercrop with strong-smelling plants (basil, mint, onion) to repel beetles.
+* Avoid excessive tilling which exposes larvae and increases pest activity.
+* Promote beneficial insects by reducing unnecessary pesticide use.
+* Use reflective mulches to deter beetles from landing."
+FleaBeetles,Insect Pest,"Leaves, seedlings, stems, cotyledons, and sometimes roots (depending on species)","Flea Beetles are tiny jumping beetles that chew small, round holes in leaves, creating a characteristic shot-hole pattern. Seedlings show pitting, yellowing, and slowed growth. Severe feeding causes leaf skeletonization, wilting, and plant collapse. Older plants survive but become stressed and weak, leading to poor yield. Some species’ larvae feed on roots, causing stunted growth.",High,"* Warm, dry weather (ideal for beetle activity)
+* Early spring and early crop stages
+* Weedy fields hosting alternate plants
+* Newly transplanted seedlings
+* Sandy soils where movement is easy
+* Continuous cropping of susceptible plants
+* Over-fertilized plants with tender growth","1. Handpick beetles early morning when activity is low.
+2. Spray plants with neem oil every 5–7 days.
+3. Use yellow sticky traps to capture adult beetles.
+4. Remove severely infested leaves or seedlings.
+5. Introduce beneficial predators like ladybirds and ground beetles.
+6. Use trap crops (mustard, radish) to attract beetles away.
+7. Remove weeds regularly to reduce beetle breeding sites.","Use any ONE (as per recommended dosage):
+
+* Imidacloprid 17.8% SL – Strong systemic protection
+* Thiamethoxam 25% WG – Effective early-season control
+* Lambda-cyhalothrin 5% EC – Fast knockdown
+* Cypermethrin 10% EC – Good foliar contact control
+* Spinosad 45% SC – Works well on adult beetles
+
+Spray interval: Every 10–12 days depending on infestation.
+Important: Rotate chemicals to avoid resistance.","* Maintain proper plant spacing to reduce stress.
+* Protect seedlings with fine insect netting.
+* Remove weeds that serve as alternate hosts.
+* Apply neem oil or botanical insecticides routinely.
+* Avoid planting susceptible crops near infested areas.
+* Strengthen soil with compost to increase plant tolerance.","* Visual observation of round “shot-hole” damage on leaves
+* Presence of tiny, shiny beetles jumping when disturbed
+* Seedlings showing yellowing, wilting, or slow growth
+* Sticky traps capturing adult beetles
+* Monitoring early in the season when beetles emerge",5 to 20,"* Reduced leaf area → weak growth
+* Seedlings may die completely
+* Reduced fruit/tuber size
+* Severe infestations may cause 20–50% yield loss","Most damaging to seedlings and early plant stages, but can affect all stages.","Found worldwide, especially in:
+
+* India
+* Southeast Asia
+* Africa
+* North & South America
+* Europe
+* Mediterranean regions","Cultural practices to reduce Flea Beetle populations:
+
+* Practice crop rotation with non-host crops.
+* Apply mulch to reduce beetle movement and prevent egg-laying.
+* Grow trap crops like mustard or radish around the field.
+* Maintain strict weed control, especially mustard family weeds.
+* Intercrop with pungent plants (basil, onion, garlic) that repel beetles.
+* Plant seedlings slightly later to avoid peak beetle season.
+* Use reflective mulches to deter beetles from landing.
+* Minimize soil disturbance to avoid exposing larvae.
+* Encourage natural enemies by reducing unnecessary chemical sprays."
+Fruit Creaking,Physiological / Environmental Disorder,"Fruits (outer skin, epicarp, pulp)","Fruit Cracking is characterized by the splitting, bursting, or cracking of the fruit skin due to sudden changes in water uptake, humidity, or temperature. Cracks appear as radial, concentric, or vertical splits on the fruit surface. The affected area becomes rough, corky, and may expose inner flesh. Cracked fruits lose market value, become prone to fungal infections, dry quickly, and deteriorate faster. Common in crops like tomato, chili, pomegranate, citrus, and grapes.",High,"* Irregular or sudden heavy irrigation after dry periods
+* High temperature followed by sudden rainfall
+* Rapid fruit growth during late stages
+* Low humidity → high humidity fluctuation
+* Calcium deficiency
+* Excess nitrogen causing soft fruit skins
+* Heavy fruit load leading to skin tension
+* Poor mulching and moisture management","1. Remove severely cracked fruits to avoid secondary infections.
+2. Water plants consistently to avoid moisture shock.
+3. Provide partial shade during extreme heat.
+4. Improve soil moisture retention with compost or organic matter.
+5. Increase humidity gently using mulching (not overhead watering).
+6. Prune lightly to balance fruit load and reduce stress.
+7. Correct nutrient imbalance with calcium-rich amendments.
+8. Protect fruits from sudden rainfall if grown in polyhouse/shade.","(Used for strengthening fruit skin and reducing cracking)
+
+* Calcium Nitrate (CaNO₃) foliar spray – strengthens fruit skin
+* Calcium Chloride (CaCl₂) 0.5% foliar spray – reduces cracking
+* Boron (0.2% boric acid) – helps in cell wall development
+* Potassium Nitrate (KNO₃) – improves fruit firmness
+* Commercial anti-transpirants (kaolin clay, chitosan) reduce heat stress
+
+Spray interval: Every 10–15 days depending on crop and severity.","* Maintain a regular irrigation schedule—avoid drought followed by heavy watering.
+* Apply mulch to stabilize soil moisture.
+* Use balanced fertilizers—avoid excess nitrogen.
+* Apply calcium sprays during fruit development.
+* Prune and manage fruit load to reduce stress on fruit skin.
+* Harvest fruits on time—overripe fruits crack easily.
+* Improve soil structure with compost to maintain moisture levels.
+* Protect fruits from sudden rain using polyhouse / rain shelter if possible.","* Observation of radial, concentric, or vertical cracks on fruit skin
+* Rough, corky openings on fruit surface
+* Softened outer skin around cracks
+* Increased insect or fungal activity near damaged areas
+* Monitoring sudden weather or irrigation changes that cause cracking",7 to 20,"* Reduced marketable produce
+* High post-harvest losses due to fruit decay
+* Secondary infections by fungi and bacteria
+* Reduced fruit size and quality
+* Yield loss can range from 10–40%, depending on crop and severity",Most severe during fruit development and ripening stages.,"Occurs worldwide, especially in areas with:
+
+* Hot-dry climates
+* Regions with irregular rainfall
+* Tropical and subtropical growing areas
+* Semi-arid and drought-prone zones","Cultural practices to reduce fruit cracking:
+
+* Use mulching to maintain even soil moisture and reduce evaporation.
+* Adopt drip irrigation instead of flood irrigation to prevent moisture shock.
+* Grow varieties resistant/tolerant to cracking.
+* Practice fruit thinning to reduce pressure on individual fruits.
+* Maintain proper canopy management to reduce direct sunburn on fruits.
+* Avoid pruning during peak heat to reduce moisture imbalance.
+* Maintain ideal planting distances for airflow and uniform microclimate.
+* Improve soil organic matter for better moisture holding.
+* Shade nets can be used to minimize temperature fluctuations.
+* Remove weeds that compete for water and cause irregular moisture stress."
+HaddaBeetles,Insect Pest,"Leaves (primary), tender shoots, flowers, and sometimes young fruits","Hadda Beetles cause characteristic scraping or window-pane damage on leaves. Adults and larvae feed on the upper leaf surface, removing green tissue and leaving behind a thin, transparent membrane. Leaves appear skeletonized, dry, and brown. Severe infestation leads to complete leaf damage, stunted growth, poor flowering, and reduced fruit yield. Larvae are yellowish and spiny, while adults are round beetles with black spots.",High,"* Warm and humid weather
+* Peak activity during summer and late monsoon
+* Dense crop canopy
+* Presence of alternate host plants (pumpkin, cucurbits, brinjal)
+* Poor field sanitation
+* Continuous cropping of susceptible crops","1. Collect and destroy egg masses found on leaf undersides.
+2. Handpick adult beetles and larvae early in the morning.
+3. Spray neem oil (2–3%) every 5–7 days to reduce feeding.
+4. Remove severely infested leaves.
+5. Encourage natural predators such as spiders and predatory bugs.
+6. Use yellow sticky traps for monitoring beetle activity.
+7. Maintain weed-free fields to reduce breeding sites.","Use any ONE of the following insecticides (as per recommended dosage):
+
+* Spinosad 45% SC – Very effective on larvae and adults
+* Lambda-cyhalothrin 5% EC – Fast knockdown
+* Cypermethrin 10% EC – Good foliar contact insecticide
+* Imidacloprid 17.8% SL – Effective for systemic protection
+* Chlorantraniliprole 18.5% SC – Works well on leaf-feeding larvae
+
+Spray interval: Every 10–12 days depending on severity.
+Important: Rotate insecticides to prevent resistance.","* Keep the crop area free of weeds and alternate host plants.
+* Apply neem oil or neem seed kernel extract (NSKE 5%) regularly.
+* Maintain proper crop spacing for airflow and sunlight penetration.
+* Avoid excessive nitrogen as it promotes soft foliage attractive to pests.
+* Use insect-proof nets in nurseries.
+* Monitor plants weekly for early detection of eggs and larvae.","* Visual observation of window-pane or scraping marks on leaves
+* Presence of yellow, spiny larvae on leaf surfaces
+* Round beetles with black spots feeding on leaves
+* Loss of green tissue leaving transparent membranes
+* Monitoring with sticky traps for adult beetles",5 to 20,"* Severe reduction in leaf area → weak plant growth
+* Poor flowering and reduced fruit set
+* Increased susceptibility to secondary infections
+* Yield loss ranges from 15% to 60% depending on crop and severity","All stages, but most damaging during:
+
+* Seedling to vegetative stage
+* Flowering stage
+* Early fruit development","Common in tropical and subtropical regions, especially:
+
+* India
+* Bangladesh
+* Southeast Asia
+* Africa
+* Middle East
+* South America","Cultural practices to reduce Hadda Beetle infestation:
+
+* Practice crop rotation with non-host crops.
+* Use trap crops like pumpkin or cucurbits around the field.
+* Remove and destroy egg clusters manually.
+* Prune lower leaves to improve ventilation and reduce humidity.
+* Avoid continuous cultivation of brinjal and cucurbits in the same field.
+* Use mulching to discourage beetle movement.
+* Remove crop residues immediately after harvest.
+* Encourage beneficial insects by reducing unnecessary pesticide use.
+* Intercrop with repellent plants like garlic, marigold, or basil."
+Healthy,Normal / Non-Diseased Condition,"All parts healthy — leaves, stems, roots, flowers, fruits","A healthy plant shows vigorous growth with fully expanded, uniformly green leaves, strong stems, and an active root system. Leaves are free from spots, discoloration, curling, holes, or fungal growth. New shoots appear regularly, flowering is timely, and fruits develop normally with proper size, color, and shape. Healthy plants maintain balanced moisture, nutrient content, and strong resistance against pests and diseases.",Low,"* Balanced temperature according to crop requirement
+* Adequate sunlight for photosynthesis
+* Proper soil moisture (not too wet, not too dry)
+* Good soil fertility with organic matter
+* Proper airflow around plants
+* Clean, weed-free environment
+* Low pest and disease pressure","1. Provide consistent watering without over-irrigation.
+2. Maintain adequate sunlight and ventilation.
+3. Apply organic compost regularly to boost soil health.
+4. Remove dry or damaged leaves to promote new growth.
+5. Maintain proper plant spacing as per crop requirement.
+6. Keep the field or garden weed-free.
+7. Support plants with stakes or trellises where required.
+8. Monitor plants weekly for any early signs of issues.
+9. Promote natural predators for ecological balance","(Not required for healthy plants, but supportive sprays can strengthen resilience)
+
+* Micronutrient foliar spray (Zn, Fe, B)
+* Seaweed extract / biostimulants
+* Humic and fulvic acid (improves root health)
+* Preventive neem oil spray
+* Calcium + Boron spray for flower and fruit quality
+
+Note: Only use when necessary. Avoid excessive chemical inputs.","* Maintain proper soil fertility using compost and organic matter.
+* Follow correct irrigation schedule.
+* Use mulching to retain soil moisture and reduce weed growth.
+* Grow disease-resistant varieties.
+* Keep the field clean and sanitized.
+* Practice crop rotation.
+* Strengthen plant immunity with bio-stimulants and organic fertilizers.
+* Use insect nets in nursery stages.","* Uniform green leaves
+* No lesions, spots, or fungal growth
+* Normal leaf shape without curling
+* Strong stems and branching
+* Healthy root system (white, fibrous)
+* Good flower and fruit formation
+* Steady growth without wilting",Not applicable,"Healthy plants produce:
+
+* High-quality fruits
+* Maximum crop yield
+* Better size, color, flavor, and shelf-life
+* Strong resistance to pests and diseases","All stages: seedling, vegetative, flowering, fruiting, and maturity","Healthy plant growth is universal and occurs when crops receive proper:
+
+* Climate
+* Soil conditions
+* Water
+* Nutrients
+* Pest and disease protection
+
+Common across all agricultural regions worldwide.","* Apply mulches (straw, leaves, cocopeat) for moisture retention.
+* Rotate crops to prevent soil-borne issues.
+* Maintain correct spacing to avoid overcrowding.
+* Prune and train plants to improve airflow and sunlight penetration.
+* Maintain good drainage to avoid waterlogging.
+* Use well-decomposed compost to enrich soil.
+* Encourage pollinators and beneficial insects."
+Healthy Eggplant,Normal / Non-Diseased Condition,"Leaves, stems, flowers, roots, and fruits all appear healthy and vigorous","A healthy eggplant shows strong, upright growth with broad, deep green leaves free from holes, spots, curling, or discoloration. Stems are firm and sturdy with proper branching. The root system is white, fibrous, and actively growing. Flowering occurs timely, and fruits develop with smooth, shiny skin, uniform color, and proper size. No signs of wilting, pest feeding, fungal growth, or physiological disorders are present. The plant maintains excellent vigor and productivity.",Low,"Healthy eggplant growth occurs when:
+
+* Temperature remains between 25–32°C
+* Soil is well-drained and rich in organic matter
+* There is 6–8 hours of sunlight per day
+* Irrigation is consistent and evenly distributed
+* Nutrient supply is balanced (NPK + micronutrients)
+* Field remains weed-free
+* Pest pressure is minimal","1. Water regularly without waterlogging the soil.
+2. Apply compost or farmyard manure every 20–30 days.
+3. Remove old, yellow, or damaged leaves to maintain plant vigor.
+4. Stake the plants to support heavy branches with fruits.
+5. Keep the field weed-free to reduce competition.
+6. Provide sufficient sunlight by maintaining proper spacing.
+7. Apply neem oil spray periodically as preventive protection.
+8. Maintain soil moisture with mulching.
+9. Harvest fruits timely to encourage continuous production.","(Not required for a healthy plant, but can be used to maintain vigor)
+
+* Micronutrient sprays (Zn, Fe, B, Mn)
+* Seaweed extract / biostimulants
+* Humic + Fulvic acid for strong roots
+* Calcium + Boron spray during flowering
+* Preventive neem-based botanical sprays
+
+Note: Avoid unnecessary pesticide or chemical overuse","* Maintain balanced fertilization (NPK + organic matter).
+* Ensure proper irrigation schedule (avoid drought and flooding).
+* Use mulching to maintain soil moisture and regulate temperature.
+* Select certified, disease-free seeds or seedlings.
+* Implement crop rotation to prevent soil-borne issues.
+* Keep field surroundings and tools clean.
+* Use insect nets in nursery stages to prevent early pest attacks.
+* Maintain optimum spacing to reduce humidity and increase airflow.
+","Healthy eggplants show:
+
+* Dark green, broad leaves
+* No pest holes, spots, curling, or chlorosis
+* Strong stems with proper branching
+* White, healthy root system
+* Vibrant flowers with good fruit set
+* Shiny, smooth, well-shaped fruits
+* No wilting or stunting
+* Consistent growth throughout stages",Not applicable,"Healthy eggplants produce:
+
+* High fruit yield with excellent size and quality
+* Continuous fruiting over many weeks
+* Strong disease and pest resilience
+* Better shelf-life and market value","All stages:
+Seedling → Vegetative → Flowering → Fruiting → Maturity","Healthy eggplant growth occurs in:
+
+* Tropical regions
+* Subtropical regions
+* Temperate regions with warm seasons
+
+Widely grown across:
+
+* India
+* Southeast Asia
+* Africa
+* Mediterranean countries
+* North & South America","* Regular pruning to remove excess foliage and improve sunlight penetration.
+* Soil enrichment using compost or vermicompost.
+* Crop rotation with legumes or cereals.
+* Timely staking to support fruit-bearing branches.
+* Remove weeds to reduce pest habitats.
+* Maintain good drainage to prevent root diseases.
+* Encourage pollinators by planting flowering border plants."
+Healthy Leaf,Normal / Non-Diseased Leaf Condition,"Leaf blade, veins, margins, and petiole all appear healthy and functional","A healthy leaf is uniformly green, smooth, and free from any spots, holes, curling, yellowing, or discoloration. The surface is clean, glossy or matte depending on the plant species, and the leaf margins remain intact. Veins are clearly visible and evenly distributed. The leaf holds firmness and stands upright without wilting. Photosynthesis occurs efficiently, contributing to strong plant growth. No visible pest, fungal, bacterial, viral, or physiological damage is present.",Low,"Healthy leaves develop under:
+
+* Optimal sunlight levels
+* Balanced temperature according to crop requirement
+* Well-drained, nutrient-rich soil
+* Stable soil moisture
+* Low pest/disease pressure
+* Good airflow around the plant
+* Clean and weed-free environment","1. Water plants regularly without over-irrigation.
+2. Provide adequate sunlight for photosynthesis.
+3. Maintain soil health using compost or organic matter.
+4. Remove dry or old leaves to encourage new growth.
+5. Maintain proper spacing for light and airflow.
+6. Monitor weekly for early pest or disease symptoms.
+7. Maintain mulch to keep moisture stable.
+8. Prune excess foliage to prevent crowding.
+9. Encourage beneficial insects in the garden.","(Not required, but can support leaf health)
+
+* Micronutrient foliar sprays (Fe, Zn, Mg, Mn)
+* Seaweed extract sprays – improve leaf vigor
+* Humic/Fulvic acid – for strong root uptake
+* Neem oil as a preventive pest repellent
+* Calcium + Boron for improved leaf strength
+
+Use only when required; avoid unnecessary chemical inputs.","* Use healthy seeds or seedlings.
+* Maintain correct irrigation schedule.
+* Use mulching to avoid moisture fluctuation.
+* Apply balanced fertilizers — avoid excess nitrogen.
+* Keep field free from weeds and debris.
+* Ensure proper ventilation to reduce humidity.
+* Rotate crops to avoid soil nutrient depletion.
+* Use insect-proof nets in nurseries.","Healthy leaves exhibit:
+
+* Uniform green color
+* Smooth texture and normal shape
+* No lesions, spots, or fungal growth
+* No holes or insect feeding marks
+* No curling, wilting, or yellowing
+* Strong petiole and firm leaf structure
+* Active, clear vein pattern
+* Proper size relative to plant age",Not applicable,"Healthy leaves contribute to:
+
+* Strong photosynthesis
+* Vigorous plant growth
+* Better flower and fruit development
+* High-quality yield
+* Strong pest and disease resistance","Healthy leaves appear at all stages:
+
+Seedling → Vegetative → Flowering → Fruiting → Maturity","Healthy leaves can be maintained across all growing regions when ideal:
+
+* Climate
+* Water
+* Nutrition
+* Sunlight
+* Pest-free environment are provided","* Practice regular pruning to allow better light exposure.
+* Improve soil with compost or vermicompost.
+* Maintain ideal spacing to avoid leaf crowding.
+* Ensure proper drainage to avoid standing water.
+* Intercrop with pest-repelling plants like marigold or basil.
+* Encourage pollinators and beneficial organisms.
+* Avoid working with wet plants to reduce contamination.
+"
+Insect Pest Disease,Insect Pest Infestation,"Leaves, stems, shoots, flowers, fruits, buds, roots — varies by pest species","Insect Pest Disease refers to damage caused by insects such as beetles, caterpillars, aphids, thrips, whiteflies, borers, and leaf miners. Symptoms include holes in leaves, scraping marks, skeletonization, curling, yellowing, distortion, wilting, stunted growth, and sticky honeydew deposits (in sap-sucking insects). Chewing insects create visible feeding marks, while borers form entry holes and internal tunnels. Severe infestation weakens the plant, reduces flowering and fruiting, and increases vulnerability to secondary infections.",High,"* Warm and humid weather
+* Dry spells followed by sudden moisture
+* Dense foliage with poor airflow
+* Overuse of nitrogen fertilizer
+* Presence of weeds and alternate hosts
+* Poor field sanitation
+* Continuous cropping of susceptible plants
+* Nursery plants without protection
+","1. Identify the type of insect pest (chewing, sucking, boring, mining).
+2. Remove affected leaves or shoots manually if possible.
+3. Use neem oil sprays every 5–7 days to suppress pests.
+4. Introduce natural predators like ladybirds, lacewings, parasitic wasps, and spiders.
+5. Use yellow/blue sticky traps depending on the pest.
+6. Maintain weed-free field conditions.
+7. Increase sunlight and airflow by pruning dense foliage.
+8. Trap crops (mustard, marigold) can divert pests from the main crop.","Use appropriate insecticides based on insect type (choose ONE):
+
+For sucking insects (aphids, whiteflies, thrips):
+
+* Imidacloprid 17.8% SL
+* Thiamethoxam 25% WG
+* Acetamiprid 20% SP
+
+For chewing insects (caterpillars, beetles):
+
+* Spinosad 45% SC
+* Emamectin Benzoate 5% SG
+* Lambda-cyhalothrin 5% EC
+* Cypermethrin 10% EC
+
+For borers (tomato fruit borer, shoot borer):
+
+* Chlorantraniliprole 18.5% SC
+* Flubendiamide 20% WG
+
+Spray interval: Every 7–12 days depending on severity.
+Note: Rotate insecticide groups to avoid resistance.","* Use insect-proof netting in nurseries.
+* Apply neem oil or botanical extracts regularly.
+* Keep fields weed-free and clean.
+* Maintain proper plant spacing and airflow.
+* Use disease- and pest-resistant crop varieties.
+* Practice timely fertilization (avoid excess nitrogen).
+* Install sticky traps and pheromone traps for early detection.
+* Practice timely pruning to reduce pest hiding spots.","* Visual spotting of insect feeding marks or holes
+* Sticky honeydew and sooty mold (in sucking pests)
+* Entry holes and frass (in borers)
+* Leaf curling, yellowing, or distortion
+* Sticky traps capturing flying pests
+* Manual inspection of leaf undersides
+* Monitoring pest population during early crop stages",5 to 20,"* Reduced leaf area → low photosynthesis
+* Weak flowering and poor fruit setting
+* Deformed or damaged fruits
+* Slow plant growth and reduced vigor
+* Yield loss ranges from 10% to 70%, depending on pest type and timing","All stages:
+
+* Seedling
+* Vegetative
+* Flowering
+* Fruiting
+* Maturity
+
+Seedlings and young plants are most vulnerable.","Occurs in all agricultural regions worldwide:
+
+* India
+* Southeast Asia
+* Africa
+* Europe
+* North & South America
+* Mediterranean regions
+
+Insect pests are widespread in tropical, subtropical, and temperate climates.","Cultural strategies to prevent insect pest outbreaks:
+
+* Follow crop rotation to break insect life cycles.
+* Use trap crops like mustard, marigold, or radish.
+* Deep ploughing before sowing to expose pupae.
+* Use mulching to reduce soil-borne pest movement.
+* Maintain good farm hygiene by removing crop residues.
+* Intercrop with repellent plants like garlic, onion, basil, and coriander.
+* Avoid planting the same crop family repeatedly.
+* Provide adequate irrigation to reduce stress on plants."
+Leaf Spot Disease,Fungal / Bacterial Disease,"Leaves (primary), sometimes stems and petioles","Leaf Spot Disease appears as small, circular to irregular spots on leaf surfaces. Spots may be brown, tan, yellow, black, or purple depending on the pathogen. As they enlarge, spots may develop concentric rings or a halo. Severely affected leaves turn yellow, dry, and fall prematurely. In humid conditions, fungal spores may be visible on the lesion surface. The disease weakens the plant by reducing photosynthesis and overall vigor.",Moderate,"* Warm and humid climate
+* High moisture or leaf wetness
+* Frequent rainfall or overhead irrigation
+* Poor airflow due to dense planting
+* Presence of infected plant debris in the field
+* Nutrient-deficient or stressed plants
+* Cloudy, rainy days favor rapid spread","1. Remove and destroy infected leaves immediately.
+2. Improve airflow by reducing overcrowding or pruning dense foliage.
+3. Water at the base of the plant and avoid wetting leaves.
+4. Increase sunlight exposure to reduce moisture on foliage.
+5. Apply neem oil spray every 7 days to slow disease progression.
+6. Improve soil fertility using compost or organic amendments.
+7. Remove weeds and plant debris where pathogens survive.
+8. Rotate crops to break the disease cycle.
+9. Use mulching to reduce soil splash onto leaves.","Use any ONE of the following fungicides (as per recommended dosage):
+
+* Mancozeb 75% WP – Broad-spectrum protective fungicide
+* Chlorothalonil 75% WP – Effective for many leaf spot pathogens
+* Copper Oxychloride 50% WP – Good early-stage control
+* Azoxystrobin 250 SC – Systemic, preventive + curative
+* Difenoconazole 25% EC – Strong control against fungal leaf spots
+* Hexaconazole 5% EC – Long-lasting systemic protection
+
+Spray interval: Every 7–10 days until symptoms decrease.
+Important: Rotate fungicides to prevent resistance.","* Maintain proper plant spacing for airflow.
+* Water early in the morning at the base, not on leaves.
+* Remove dry, infected, or old leaves regularly.
+* Apply preventive neem oil or bio-fungicide sprays.
+* Use disease-free seeds and resistant varieties when available.
+* Improve soil with organic compost and balanced nutrients.
+* Avoid planting the same crop repeatedly on the same land.
+* Keep field free from weeds and debris.","* Visual observation of circular/irregular spots on leaves
+* Spots may have halos, rings, or dark margins
+* Yellowing and early leaf drop
+* Presence of fungal growth under humid conditions
+* Lab tests (microscopy or culture) for pathogen confirmation",7 to 20,"* Reduced photosynthesis due to leaf loss
+* Weak plant growth and reduced vigor
+* Lower fruit size and poor quality
+* Severe outbreaks may cause 15–40% yield loss","All stages, but most severe during vegetative and flowering stages when leaves are abundant.","Common across:
+
+* Tropical regions
+* Subtropical regions
+* Temperate regions
+
+Highly prevalent in:
+
+* India
+* Southeast Asia
+* Africa
+* Europe
+* North & South America
+* Mediterranean climates","Cultural practices to prevent Leaf Spot Disease:
+
+* Follow crop rotation for 2–3 years with non-host crops.
+* Use mulching to prevent soil splash spreading spores.
+* Remove and destroy infected leaves early.
+* Avoid overhead irrigation to minimize leaf wetness.
+* Maintain clean field sanitation, removing debris after harvest.
+* Ensure proper sunlight by pruning overcrowded branches.
+* Avoid excessive nitrogen fertilizer — promotes soft, susceptible leaves.
+* Use resistant or tolerant crop varieties where possible."
+Leaf Wilt,"Physiological / Pathological Disorder
+(Causes include drought stress, root damage, Fusarium wilt, Verticillium wilt, bacterial wilt, nutrient imbalance, heat stress, etc.)","Leaves (primary), stems, roots (indirectly), vascular system","Leaf Wilt is characterized by drooping, downward curling, and loss of turgor in leaves. Affected leaves appear limp, soft, and dehydrated even when soil moisture seems adequate. Leaf color may change from green to pale yellow or dull green. In severe cases, leaves dry, turn brown, and fall off. Wilt may occur suddenly (due to bacterial wilt, root damage) or gradually (due to Fusarium, Verticillium, drought stress). The plant becomes weak, stunted, and unable to maintain normal growth and fruit development.",High,"* High temperatures and excessive sunlight
+* Prolonged drought or irregular watering
+* Poor soil drainage / waterlogged conditions
+* Root damage due to nematodes or pests
+* Fungal pathogens (Fusarium, Verticillium)
+* Bacterial wilt (rapid, severe wilting)
+* Salinity in soil or irrigation water
+* Nutrient imbalance (especially potassium deficiency)
+* Transplant shock","(For non-pathogenic / stress-related wilt)
+
+1. Water regularly and maintain even soil moisture.
+2. Improve shading during extreme heat hours.
+3. Remove dried, wilted leaves to reduce stress.
+4. Improve soil structure with compost for better water retention.
+5. Ensure proper drainage to avoid waterlogging.
+6. Lightly loosen soil around plant—improves root aeration.
+7. Apply mulch to maintain moisture and soil temperature.
+8. Avoid mechanical root damage during weeding.
+9. Add balanced nutrients to strengthen plant growth.
+
+Note: Pathogen-caused wilt (Fusarium/Bacterial) does NOT recover naturally.","(Choose based on the cause)
+
+For fungal wilt (Fusarium / Verticillium):
+
+* Carbendazim 50% WP
+* Trichoderma-based biofungicides
+* Copper oxychloride 50% WP (early stages)
+* Azoxystrobin 250 SC
+
+For bacterial wilt:
+
+* Copper-based bactericides (partial control)
+* Soil drenching with bleaching powder (temporary suppression)
+* Biological control: Pseudomonas fluorescens
+
+For pest or nematode-related wilt:
+
+* Neem cake application in soil
+* Biological nematicides (Paecilomyces, Pochonia chlamydosporia).","* Use disease-free seedlings or resistant varieties.
+* Maintain consistent watering; avoid extremes.
+* Apply organic compost to improve soil structure.
+* Ensure proper field drainage to prevent root rot.
+* Avoid injuring roots during transplanting or weeding.
+* Rotate crops regularly to avoid soil-borne pathogens.
+* Remove wilted plants early to reduce disease spread.
+* Maintain proper spacing for ventilation and reduced heat stress.","* Visual observation of drooping, limp, or curled leaves
+* Leaves remain wilted even after watering (indicates root/vessel problems)
+* Soil moisture check (dry vs. waterlogged)
+* Inspect roots for rot, nematode knots, or damage
+* Cross-section of stem may show darkened vascular tissue (Fusarium/Verticillium)
+* Rapid wilt with no leaf yellowing indicates bacterial wilt",5 to 15 / no cure,"* Reduced leaf turgidity → lower photosynthesis
+* Stunted growth and poor fruit formation
+* Early leaf drop and weak branching
+* Severe pathogen-induced wilt may cause 40–100% yield loss
+* Fruits become small, deformed, or fail to develop","All stages, but especially severe during:
+
+* Seedling stage
+* Flowering stage
+* Early fruiting stage","Occurs worldwide in:
+
+* Tropical regions
+* Subtropical regions
+* Temperate zones
+
+Common in areas with:
+
+* Poor drainage
+* High temperature stress
+* Soil-borne pathogens","Cultural practices to prevent Leaf Wilt:
+
+* Practice crop rotation with non-host crops.
+* Improve soil with organic matter to retain moisture evenly.
+* Avoid planting in waterlogged or poorly drained soils.
+* Maintain adequate spacing to reduce heat stress and humidity imbalance.
+* Apply mulches (straw, leaves, grass) to stabilize soil moisture.
+* Use raised beds in areas prone to waterlogging.
+* Solarize soil before planting to reduce pathogen load.
+* Remove and destroy wilted plants caused by fungal/bacterial infections.
+* Avoid excessive nitrogen fertilization."
+LeafhopperJassids,Insect Pest (Sap-Sucking Insect),"Leaves (primary), leaf margins, young shoots","Leafhoppers (Jassids) suck sap from the underside of leaves, causing yellowing, leaf curling, tip burn, and marginal necrosis (called “hopper burn”). Affected leaves turn pale, develop wedge-shaped brown patches at edges, and eventually dry and fall off. Plants show stunted growth, reduced branching, reduced flowering, and poor fruit set. In severe attacks, entire foliage becomes yellow and scorched.",High,"* Hot and dry climate
+* Humid evenings followed by hot days
+* Tender new leaf flush (preferred feeding area)
+* Dense planting with poor airflow
+* Weedy surroundings and alternate hosts
+* Early crop stages (seedling to vegetative)
+* High nitrogen fertilization (soft leaves attract pests)","1. Wash leaves with water to reduce early infestations.
+2. Remove heavily infested leaves.
+3. Apply neem oil (2–3%) every 5–7 days.
+4. Use soap spray (mild liquid soap + water) as a natural repellent.
+5. Encourage natural predators like spiders, lacewings, ladybirds.
+6. Install yellow sticky traps to catch adult leafhoppers.
+7. Keep the field free from weeds and alternative hosts.","Use ONE insecticide from below (as per recommended dosage):
+
+* Imidacloprid 17.8% SL – Very effective for sucking pests
+* Thiamethoxam 25% WG – Quick systemic control
+* Acetamiprid 20% SP – Long-lasting action against leafhoppers
+* Lambda-cyhalothrin 5% EC – Fast knockdown
+* Spirotetramat 15% OD – Strong control for young nymph stages
+
+Spray interval: Every 7–10 days depending on infestation level.
+Important: Rotate insecticides to prevent resistance buildup.","* Keep field free from weeds that host leafhoppers.
+* Maintain proper plant spacing for airflow.
+* Avoid excess nitrogen fertilizers that promote tender leaves.
+* Regularly apply neem oil or botanical extracts.
+* Use sticky traps for early detection.
+* Maintain proper irrigation to keep plants healthy and less stressed.
+* Use pest-resistant crop varieties, if available.","* Yellowing and curling of leaves
+* Wedge-shaped brown patches at leaf margins (“hopper burn”)
+* Presence of small, jumping insects on the underside of leaves
+* Sticky traps collecting adult leafhoppers
+* Stunted growth and reduced branching
+* Nymphs moving quickly when leaves are disturbed",5 to 15,"* Reduced photosynthesis due to leaf burn
+* Stunted growth and poor flowering
+* Lower fruit quality and reduced fruit size
+* Yield loss may reach 20–60% in severe infestations","Most damaging during:
+
+* Seedling stage
+* Vegetative stage
+* Early flowering
+
+But can affect plants at any stage.","Widely found in:
+
+* India
+* Southeast Asia
+* Africa
+* Middle East
+* Southern Europe
+* Central & South America
+
+Thrives in tropical and subtropical climates.","Cultural methods to reduce Leafhopper/Jassid infestation:
+
+* Practice crop rotation to break pest life cycle.
+* Install yellow sticky traps around the field.
+* Mulch soil to reduce pest movement and maintain moisture.
+* Intercrop with repellent plants like marigold, garlic, or coriander.
+* Remove and destroy infested leaves to reduce population buildup.
+* Use fine-mesh insect nets to protect nursery seedlings.
+* Avoid planting susceptible crops next to infested areas.
+* Maintain balanced fertilization and avoid overuse of nitrogen.
+* Keep surrounding borders weed-free to eliminate alternate hosts."
+MagnesiumDeficiency,Nutrient Deficiency (Physiological Disorder),"Older leaves (primary), lower foliage, sometimes stems","Magnesium deficiency causes interveinal chlorosis (yellowing between veins) on older leaves while the veins remain green. As the deficiency progresses, yellow areas turn reddish-brown or purple. Leaves may curl upward, develop necrotic spots, and fall prematurely. Plants show weak growth, reduced photosynthesis, poor flowering, and low fruit development. Magnesium deficiency often appears in sandy soils, acidic soils, or areas with excess potassium or calcium.",Moderate,"* Acidic soils (low pH)
+* Light, sandy soils with poor nutrient retention
+* Excess potassium or calcium competing with Mg uptake
+* Over-irrigation causing nutrient leaching
+* Cold, wet soil reducing root absorption
+* Rapid plant growth outpacing nutrient supply
+* Heavy fruit load increasing magnesium demand","1. Reduce excessive irrigation to prevent nutrient leaching.
+2. Improve soil organic matter to enhance nutrient-holding capacity.
+3. Remove severely damaged leaves to encourage new growth.
+4. Maintain proper soil moisture—avoid drought and waterlogging.
+5. Apply mulch to stabilize soil temperature and moisture.
+6. Improve soil pH by adding lime if soil is too acidic.
+7. Reduce potassium-heavy fertilizers temporarily.","Apply any ONE of the following magnesium sources:
+
+* Magnesium Sulfate (Epsom Salt) – 1% foliar spray
+* Magnesium Sulfate soil application – 25–50 kg/ha
+* Dolomite Lime (for acidic soils)
+* Magnesium Nitrate (1% spray)
+* Cal-Mag supplements (Calcium + Magnesium)
+
+Spray interval: Every 7–10 days until symptoms reduce.
+Note: Soil correction may take several weeks.","* Maintain balanced fertilization ratios (avoid excess K or Ca).
+* Apply compost or organic matter to improve soil structure.
+* Use dolomite lime regularly in acidic soils.
+* Conduct soil testing to monitor nutrient levels.
+* Apply slow-release magnesium fertilizers before flowering.
+* Avoid over-irrigation that leads to leaching.","* Visual identification of interveinal chlorosis
+* Lower/older leaves turning yellow while veins stay green
+* Marginal leaf curling
+* Reddish-purple discoloration in severe cases
+* Soil testing for nutrient imbalance
+* Tissue analysis to confirm low magnesium levels",7 to 20,"* Reduced photosynthesis
+* Poor fruit size and quality
+* Increased flower drop
+* Delayed plant growth
+* Yield loss can range from 10–35% if untreated","Mostly visible during:
+
+* Vegetative stage
+* Flowering stage
+* Early fruit development","Common in regions with:
+
+* Sandy soils
+* Acidic soils
+* High rainfall (leaching areas)
+* Intensive farming with heavy fertilizer use
+
+Common across:
+
+* India
+* Southeast Asia
+* Africa
+* Europe
+* North & South America","Cultural practices to prevent Magnesium Deficiency:
+
+* Maintain soil pH between 6.0–7.0 for optimal magnesium uptake.
+* Use organic mulches to retain moisture and reduce nutrient loss.
+* Rotate crops to avoid soil exhaustion.
+* Plant deep-rooted crops to improve soil nutrient cycling.
+* Incorporate well-rotted compost into soil regularly.
+* Avoid planting crops in very sandy soils without adding organic amendments.
+* Use cover crops (legumes) to improve soil fertility over time."
+Mosaic Virus Disease,Viral Disease,"Leaves (primary), young shoots, stems, flowers, fruits (indirect effects)","Mosaic Virus Disease causes a mosaic pattern of light green, dark green, and yellow patches on leaves. Affected leaves become distorted, curled, wrinkled, and narrowed. Plants show stunted growth, reduced branching, and weak flowering. Fruits may become small, deformed, or develop color breaking. Severe infections lead to poor vigor, reduced yield, and uneven ripening. The disease spreads mainly through vectors such as aphids, whiteflies, thrips, and by contact with infected plant material.",Moderate,"* Warm to hot temperatures
+* High populations of vectors (aphids, whiteflies, thrips)
+* Continuous cropping of susceptible crops
+* Weedy fields containing alternate virus hosts
+* Mechanical transmission (hands, tools, pruning)
+* Stress conditions increasing plant susceptibility
+* Dense planting with poor airflow","(Virus cannot be cured, only managed)
+
+1. Remove infected leaves or entire plants to prevent spread.
+2. Control vector insects using neem or soapy water sprays.
+3. Improve airflow by pruning overcrowded foliage.
+4. Provide consistent irrigation to reduce stress.
+5. Strengthen plants with seaweed extract or organic tonics.
+6. Remove weeds that act as alternate virus hosts.
+7. Disinfect tools regularly to avoid mechanical transmission.
+8. Use shade nets or insect-proof nets in nurseries.","Note: There is no chemical cure for viruses.
+Chemical control targets vectors that spread the virus.
+
+Use any ONE of the following insecticides:
+
+* Imidacloprid 17.8% SL – Controls aphids & whiteflies
+* Thiamethoxam 25% WG – Fast systemic control
+* Acetamiprid 20% SP – Highly effective for sap-sucking insects
+* Spirotetramat 15% OD – Long-lasting vector control
+* Lambda-cyhalothrin 5% EC – Knockdown for thrips and leafhoppers
+
+Spray interval: Every 7–10 days depending on vector presence.
+Important: Rotate insecticides to avoid resistance.","* Use certified virus-free seeds or seedlings.
+* Install yellow sticky traps for early detection of aphids/whiteflies.
+* Maintain proper spacing for airflow.
+* Apply neem oil at regular intervals as a preventive spray.
+* Remove and destroy infected plants immediately.
+* Avoid touching healthy plants after handling infected ones.
+* Use resistant or tolerant varieties whenever available.
+* Maintain field sanitation and remove weeds regularly.","* Mosaic (patchy yellow-green) patterns on leaves
+* Leaf distortion, curling, narrowing, and wrinkling
+* Stunted shoots and weak plant growth
+* Irregular fruit coloring and deformities
+* Presence of aphids, whiteflies, or thrips transmitting the virus
+* Lab testing (ELISA, PCR) for confirmation",No complete recovery,"* Reduced leaf efficiency → low photosynthesis
+* Poor flowering and fruit set
+* Deformed and low-quality fruits
+* Significant yield loss, often 20–80% depending on crop and infection stage
+* Early infection causes maximum damage","All stages, but early growth stage infections cause the highest yield loss.","Common in:
+
+* Tropical areas
+* Subtropical regions
+* Temperate climates during warm seasons
+
+Widely affecting crops in:
+
+* India
+* Southeast Asia
+* Africa
+* Europe
+* North & South America","Cultural methods to reduce Mosaic Virus spread:
+
+* Practice crop rotation with non-host crops.
+* Use insect-proof nurseries with fine mesh netting.
+* Remove alternate host weeds (nightshade, datura, pigweed).
+* Avoid working in fields when plants are wet (reduces virus transfer).
+* Solarize soil before planting to reduce virus & vector presence.
+* Intercrop with repellent plants like marigold or basil.
+* Monitor and destroy vector insects early in the season.
+* Maintain balanced nutrient supply to reduce plant stress.
+* Use reflective mulches to repel aphids and whiteflies."
+Phomopsis Blight,Fungal Disease,"Leaves, stems, petioles, fruits (especially eggplant)","Phomopsis Blight begins with small, circular, dark-brown spots on leaves that enlarge and develop gray centers with dark margins. Infected stems show elongated, sunken lesions that may crack open. Fruits develop soft, water-soaked areas that enlarge into sunken, dull-brown rot. Under humid conditions, tiny black pycnidia (fungal fruiting bodies) form on infected tissues. Severe infection leads to leaf drop, stem dieback, fruit rot, weakened plants, and poor yield.",Moderate,"* Warm temperatures (24–30°C)
+* High humidity and prolonged leaf wetness
+* Frequent rainfall or overhead irrigation
+* Poor airflow from dense planting
+* Infected plant debris left in the soil
+* Nursery contamination or infected seeds
+* Fruit injury from pests or mechanical damage","1. Remove infected leaves, fruits, and stems immediately.
+2. Improve air circulation by pruning overcrowded foliage.
+3. Water only at the base and avoid wetting plant foliage.
+4. Increase sunlight exposure to reduce moisture on leaves.
+5. Apply neem oil or bio-fungicidal sprays weekly to slow spread.
+6. Collect and destroy fallen infected fruits/debris.
+7. Improve soil drainage to prevent humidity buildup.
+8. Rotate crops with non-host plants for 2–3 years.","Use any ONE of the following fungicides (according to dosage):
+
+* Mancozeb 75% WP – Preventive, effective on leaf spots
+* Chlorothalonil 75% WP – Controls early infection
+* Copper Oxychloride 50% WP – Good protective action
+* Carbendazim 50% WP – Effective against *Phomopsis* on stems/fruits
+* Azoxystrobin 250 SC – Systemic control + preventive
+* Difenoconazole 25% EC – Strong systemic action for blight diseases
+
+Spray interval: Every 7–10 days during disease-prone season
+Note: Rotate fungicides to prevent resistance.","* Use certified disease-free seeds or resistant varieties.
+* Avoid overhead irrigation.
+* Maintain good plant spacing for airflow.
+* Remove plant debris after harvest.
+* Apply preventive fungicide sprays during rainy/humid seasons.
+* Ensure balanced fertilization to strengthen plant immunity.
+* Avoid injury to fruits and stems.
+* Keep nursery soil sterilized to avoid early infection.","* Brown leaf spots with gray centers
+* Sunken, elongated stem lesions
+* Soft, sunken fruit rot with black fungal dots (pycnidia)
+* Dieback of young stems
+* Early leaf yellowing and drop
+* Lab confirmation of fungal structures under microscope",7 to 20,"* Reduced fruit quality and marketability
+* Severe pre-harvest fruit rot
+* Reduced leaf area → lowered photosynthesis
+* Stem dieback reduces plant vigor
+* Yield loss ranges from 20% to 50% in moderate outbreaks
+* In severe untreated cases, losses can exceed 70%","All stages, but most severe during:
+
+* Flowering stage
+* Fruit development stage
+
+Seedlings may also suffer if infection starts in nursery.","Common in:
+
+* India
+* Southeast Asia
+* Africa
+* Central & South America
+* Mediterranean regions
+
+Thrives in humid, warm, densely planted environments.","Cultural practices to reduce Phomopsis Blight:
+
+* Crop rotation with non-host crops (2–3 years).
+* Remove and destroy infected fruits and stems promptly.
+* Maintain field sanitation—remove debris after each harvest.
+* Avoid planting in low-lying, waterlogged areas.
+* Use mulching to prevent soil splash spreading spores.
+* Sterilize tools and equipment regularly.
+* Maintain wide row spacing for airflow.
+* Start with healthy, disease-free nursery seedlings.
+* Use raised beds to reduce soil moisture buildup.
+* Intercrop with repellent plants (garlic, marigold) to deter pests that injure fruits and help fungal entry."
+Phomopsis Bright,Fungal Disease,"Leaves, stems, petioles, fruits (especially in eggplant/brinjal)","Phomopsis Blight begins as small, brown, circular leaf spots that develop gray centers with dark borders. On stems, elongated sunken lesions appear, sometimes cracking open. Fruits develop soft, dull-brown, water-soaked spots that enlarge and rot. Under humid conditions, tiny black fungal structures (pycnidia) appear on infected tissues. Severe infection results in leaf drop, stem dieback, fruit rot, and significantly reduced yield.",Moderate,"* Warm temperatures (24–30°C)
+* High humidity and prolonged leaf wetness
+* Continuous rainfall or overhead irrigation
+* Poor airflow / dense planting
+* Plant debris from previous infected crops
+* Nursery contamination
+* Fruit injuries from pests or mechanical damage","1. Remove and destroy infected leaves, stems, and fruits.
+2. Improve ventilation through pruning or spacing.
+3. Avoid watering on the foliage—water only at the base.
+4. Increase sunlight exposure to dry leaves.
+5. Spray neem oil weekly to slow fungal activity.
+6. Remove all fallen debris from the field.
+7. Improve soil drainage to reduce humidity.
+8. Rotate crops with non-host plants (2–3 years).","Use any ONE fungicide (as per recommended dosage):
+
+* Mancozeb 75% WP – Preventive and highly effective
+* Chlorothalonil 75% WP – Good for early infection
+* Copper Oxychloride 50% WP – Protective action
+* Carbendazim 50% WP – Systemic control for stem & fruit infection
+* Azoxystrobin 250 SC – Preventive + systemic
+* Difenoconazole 25% EC – Strong systemic fungicide
+
+Spray interval: Every 7–10 days
+Note: Rotate fungicide groups to avoid resistance.","* Use certified disease-free seeds/seedlings.
+* Maintain good spacing to allow airflow.
+* Avoid overhead irrigation.
+* Remove infected plant debris after harvest.
+* Use preventive fungicide sprays during humid/rainy seasons.
+* Keep nursery soil sterilized.
+* Avoid fruit injury during handling.
+* Maintain balanced nutrition to strengthen plant immunity.","* Brown leaf spots with gray centers
+* Sunken stem lesions that may crack
+* Soft, sunken, brown fruit rot with black dots (pycnidia)
+* Dieback of shoots
+* Laboratory confirmation using fungal culture or microscopy",7 to 20,"* High fruit rot → reduced marketable produce
+* Weak plant growth due to stem damage
+* Early fruit drop
+* Severe outbreaks cause 20–70% yield los","All stages, but most severe during:
+
+* Flowering
+* Fruit development","Common in:
+
+* India
+* Southeast Asia
+* Africa
+* Central & South America
+* Mediterranean regions
+
+Thrives in warm, humid climates.","* Practice crop rotation with non-host crops for 2–3 years.
+* Remove infected plant parts immediately.
+* Maintain clean field sanitation to reduce inoculum.
+* Use mulching to prevent soil splash onto leaves.
+* Plant on raised beds in areas with high moisture.
+* Sterilize tools to prevent pathogen spread.
+* Intercrop with repellent plants like marigold or garlic.
+* Ensure early detection by regularly inspecting fruits and stems."
+PhomopsisBlight,Fungal Disease,"Leaves, stems, petioles, fruits (especially eggplant/brinjal)","Phomopsis Blight begins as small, round to irregular brown leaf spots that develop gray centers with dark margins. On stems, the disease forms elongated, sunken, cracked lesions, leading to partial stem dieback. Fruits develop soft, sunken, dull-brown rot, often with tiny black fungal bodies (pycnidia). Severe infection results in defoliation, fruit rot, weakened shoots, and drastic reduction in plant vigor and yield.",Moderate,"* Warm temperatures (24–30°C)
+* High humidity or prolonged leaf wetness
+* Rainy season or frequent overhead irrigation
+* Dense planting with poor airflow
+* Carryover of infected crop debris
+* Nursery contamination
+* Fruit injury from pests or handling","1. Remove and destroy infected leaves, stems, and fruits.
+2. Improve airflow by pruning overcrowded branches.
+3. Water only at the base—avoid wetting foliage.
+4. Increase sunlight exposure to dry leaf surfaces.
+5. Apply neem oil weekly to suppress fungal growth.
+6. Maintain clean soil by removing fallen debris.
+7. Enhance drainage to reduce moisture accumulation.
+8. Rotate crops with non-host species for 2–3 years.","Use ONE fungicide (as per recommended dosage):
+
+* Mancozeb 75% WP – Broad-spectrum, preventive
+* Chlorothalonil 75% WP – Effective for early stages
+* Copper Oxychloride 50% WP – Good protective effect
+* Carbendazim 50% WP – Systemic action, effective on stems/fruits
+* Azoxystrobin 250 SC – Preventive + curative
+* Difenoconazole 25% EC – Strong systemic fungicide
+
+Spray interval: Every 7–10 days
+Important: Rotate fungicides to prevent resistance.","* Use disease-free seeds or resistant varieties.
+* Maintain proper spacing for good airflow.
+* Avoid overhead irrigation.
+* Remove infected debris after harvest.
+* Apply preventive fungicides during humid seasons.
+* Sterilize nursery soil before sowing.
+* Avoid mechanical damage to fruits and stems.
+* Maintain proper plant nutrition to strengthen immunity.","* Brown leaf spots with gray centers
+* Sunken, elongated stem lesions
+* Soft, water-soaked fruit rot with black pycnidia
+* Shoot dieback
+* Laboratory confirmation through microscopy/culture",7 to 20,"* Reduced marketable fruit production
+* Severe fruit rot leading to post-harvest loss
+* Weak plant growth due to stem damage
+* Yield loss ranges from 20–70%, especially in eggplant","All stages, but most severe during:
+
+* Flowering stage
+* Fruit development stage","Common in:
+
+* India
+* Southeast Asia
+* Africa
+* Central & South America
+* Mediterranean climates
+
+Thrives in warm, humid environments with dense foliage.","Cultural practices to reduce Phomopsis Blight:
+
+* Practice crop rotation with non-host crops for 2–3 years.
+* Remove and discard infected fruits/leaves early.
+* Maintain field sanitation by removing crop residues.
+* Use mulching to avoid soil splash transmitting spores.
+* Grow plants on raised beds to reduce moisture stress.
+* Sterilize tools regularly to prevent pathogen spread.
+* Prune lower leaves to increase airflow.
+* Intercrop with repellent species like marigold or garlic."
+Phytophthora Blight,Fungal-like Disease (Oomycete),"Leaves, stems, petioles, roots, fruits (depending on crop)","Phytophthora Blight causes dark, water-soaked lesions on leaves and stems that rapidly enlarge. Leaves wilt, droop, and collapse, often without yellowing. Stem lesions become brown to black and may girdle the stem, causing sudden plant death. Fruits develop soft, water-soaked rot, turning brown and shriveled. In humid conditions, white fungal-like growth appears on affected tissues. The disease spreads rapidly during wet and warm conditions, leading to severe plant loss.",High,"* Warm temperatures (22–30°C)
+* High humidity (>85%)
+* Continuous rain or standing water
+* Poor drainage / waterlogged soils
+* Overhead irrigation
+* Dense planting with limited airflow
+* Crop residues infected with Phytophthora
+* Monsoon season or frequent storms","(Only effective when infection is mild; oomycetes spread rapidly)
+
+1. Remove and destroy infected leaves, fruits, and stems immediately.
+2. Improve drainage around plants (raise beds if possible).
+3. Reduce irrigation and avoid overhead watering.
+4. Expose plants to more sunlight to reduce moisture.
+5. Apply neem oil weekly as supportive control.
+6. Remove fallen infected debris from the field.
+7. Increase airflow by pruning dense foliage.
+8. Rotate crops with non-susceptible crops for 2–3 years.","Use ONE of the following fungicides (as per recommended dosage):
+
+* Metalaxyl / Metalaxyl-M – Highly effective systemic control
+* Ridomil Gold (Metalaxyl + Mancozeb) – Strong action against oomycetes
+* Cymoxanil + Mancozeb – Fast knockdown + protection
+* Propamocarb Hydrochloride 722 SL – Systemic oomycete control
+* Azoxystrobin 250 SC – Preventive and curative
+* Mandipropamid – Effective during rainy season
+
+Spray interval: Every 7–10 days during disease-conducive weather.
+Important: Rotate fungicide groups to avoid resistance.","* Plant on raised beds to improve drainage.
+* Avoid excess irrigation—water early in the morning only at the base.
+* Maintain proper plant spacing for airflow.
+* Remove infected debris after every harvest.
+* Use disease-resistant varieties when available.
+* Apply preventive fungicides before rainy or humid periods.
+* Avoid cultivating in low-lying or waterlogged fields.
+* Ensure balanced nutrition for strong plant immunity.","* Dark, water-soaked leaf lesions
+* Sudden wilting without yellowing
+* Brown/black stem lesions causing collapse
+* Soft fruit rot with white fungal-like growth
+* Field areas with standing water often worst affected
+* Lab confirmation using microscopy or pathogen isolation",7 to 20 / no cure,"* Rapid plant death in severe cases
+* Fruit rot leading to high post-harvest loss
+* Poor flowering and fruit set
+* Yield loss may reach 40–100% in severe outbreaks
+* Major economic losses during rainy seasons","All stages, but most severe during:
+
+* Flowering stage
+* Fruit development stage
+* Rainy season","Common in:
+
+* India
+* Southeast Asia
+* Africa
+* South America
+* Mediterranean regions
+* USA (humid states)
+
+Thrives in warm, wet, waterlogged conditions.","Cultural practices to prevent Phytophthora Blight:
+
+* Follow crop rotation for 2–3 years with non-host crops (cereals, legumes).
+* Improve field drainage using raised beds or ridges.
+* Use mulching to prevent soil splash spreading spores.
+* Maintain clean field sanitation by removing infected plants.
+* Prune dense canopy to reduce humidity.
+* Avoid overhead irrigation and waterlogging.
+* Solarize soil before planting to reduce pathogen load.
+* Use resistant varieties and disease-free seedlings.
+* Maintain weed-free surroundings to reduce alternate hosts."
+Powdery Mildew ,Fungal Disease,"Leaves (primary), stems, flowers, buds, fruits (depending on crop)","Powdery Mildew appears as white, powdery fungal growth on the upper leaf surface, stems, or flowers. Infected leaves become distorted, curled, and gradually turn yellow. Severe infection leads to leaf drying and premature leaf drop. Young shoots may become stunted. Fruits may show russeting, poor development, or reduced quality. The disease thrives in warm, dry climates with high humidity and spreads rapidly under shaded conditions.",Moderate,"* Warm temperatures (20–30°C)
+* High relative humidity (but dry foliage)
+* Shaded or overcrowded plants
+* Low light conditions
+* Stressed plants with poor nutrition
+* Poor airflow
+* Dry days + cool nights (ideal for spore germination)","1. Remove heavily infected leaves and shoots.
+2. Improve air circulation by pruning overcrowded foliage.
+3. Increase sunlight exposure to reduce humidity on leaves.
+4. Spray neem oil or potassium bicarbonate weekly.
+5. Keep soil moisture stable—avoid stress conditions.
+6. Remove plant debris to reduce fungal survival.
+7. Increase spacing between plants in shaded areas.
+8. Maintain good nutrition to improve plant immunity.","Use ONE of the following fungicides (as per recommended dosage):
+
+* Hexaconazole 5% EC – Very effective systemic fungicide
+* Difenoconazole 25% EC – Strong curative action
+* Tebuconazole 25% EC – Broad-spectrum control
+* Sulfur 80% WP / Wettable Sulfur – Excellent preventive & curative
+* Azoxystrobin 250 SC – Preventive + systemic
+* Trifloxystrobin + Tebuconazole (combination) – Highly effective
+
+Spray interval: Every 7–10 days.
+Important: Avoid repeated use of the same fungicide group.","* Maintain plant spacing for airflow.
+* Apply preventive sulfur or neem sprays in early stages.
+* Ensure good sunlight penetration by pruning excess foliage.
+* Avoid excess nitrogen fertilization which produces soft, susceptible leaves.
+* Control weeds around plants.
+* Irrigate plants early in the morning to allow drying.
+* Avoid stress conditions such as drought or irregular watering.
+* Maintain soil fertility with compost and micronutrients.","* White, talc-like powder on leaves and stems
+* Leaf curling, yellowing, or distortion
+* Stunted young shoots
+* Poor fruit development or russeting
+* Visible powdery coating even without high moisture
+* Lab confirmation optional for severe cases",7 to 15,"* Reduced leaf area → lower photosynthesis
+* Poor fruit development and quality
+* Early leaf drop in severe cases
+* Yield loss ranges from 10%–40%, depending on crop and severity","All stages, but worst during:
+
+* Flowering
+* Early fruit development
+* Cool nights + warm days period","Common worldwide in:
+
+* Tropical regions
+* Subtropical regions
+* Temperate climates
+
+Especially severe in:
+
+* India
+* Southeast Asia
+* Africa
+* Mediterranean regions
+* North & South America
+
+Thrives in warm, dry weather + high humidity.","* Use resistant varieties if available.
+* Train/prune crops to improve air circulation.
+* Avoid overhead irrigation in the evening.
+* Use mulching to maintain soil moisture balance.
+* Remove and destroy infected plant debris after harvest.
+* Practice crop rotation to reduce inoculum buildup.
+* Use reflective mulches to reduce humidity around plants.
+* Maintain proper shading and avoid overcrowding."
+Shoot and Fruit Borer,Insect Pest (Lepidopteran borer),"Tender shoots, stems, flower buds, developing fruits","Shoot and Fruit Borer larvae bore into tender shoots, causing them to wilt, droop, and die, known as “dead heart” symptoms. In fruits, larvae enter through small holes near the calyx, creating internal tunnels filled with frass (insect waste). Fruits become deformed, lightweight, prematurely ripen, or rot internally. Externally, symptoms may be subtle, but inside the fruit is fully damaged. Infestation leads to significant yield loss and low market value.",High,"* Warm, humid weather
+* Abundant flowering and fruiting stages
+* Dense foliage and poor airflow
+* Presence of alternate host plants (nightshade family)
+* Continuous eggplant cultivation in the same field
+* Lack of regular monitoring
+* High nitrogen fertilization (tender shoots attract larvae)","1. Handpick and destroy infested shoots and fruits.
+2. Remove larvae hidden inside damaged plant parts.
+3. Install pheromone traps @ 40–50 traps/ha to trap male moths.
+4. Use light traps in the evening to reduce moth population.
+5. Apply neem oil (3%) or NSKE (5%) weekly.
+6. Encourage natural predators like Trichogramma wasps and spiders.
+7. Keep the field weed-free to reduce pest breeding.
+8. Harvest fruits regularly to avoid larval buildup.","Use ONE of the following insecticides (as per recommended dosage):
+
+* Emamectin Benzoate 5% SG – Very effective on larvae
+* Spinosad 45% SC – Strong action on caterpillars
+* Flubendiamide 20% WG – Long-lasting residual control
+* Lambda-cyhalothrin 5% EC – Good foliar knockdown
+* Chlorantraniliprole 18.5% SC – Highly effective against borers
+
+Spray interval: Every 10–12 days, especially during flowering & fruiting.
+Important: Rotate chemical groups to avoid resistance.","* Use resistant/tolerant eggplant varieties.
+* Install pheromone traps early in the season.
+* Keep field clean and free of weeds or alternate hosts.
+* Avoid excessive nitrogen fertilizers.
+* Maintain proper plant spacing for airflow.
+* Use insect-proof nets in nursery stages.
+* Apply neem oil or botanicals regularly for preventive protection.
+* Practice timely harvesting to reduce larval buildup inside fruits.","* Entry holes on fruits near the calyx
+* Presence of frass (sawdust-like waste) around entry hole
+* Wilted or drooping shoots (“dead hearts”)
+* Internal fruit tunneling detected by cutting
+* Larvae present inside shoots or fruits
+* Pheromone trap catches indicating adult moth activity",7 to 20,"* Severe internal fruit damage → unmarketable fruits
+* Reduced fruit size and weight
+* Lower plant vigor due to shoot damage
+* Yield losses commonly 30–70% if unmanaged","All stages, but most severe during:
+
+* Vegetative stage (shoot damage)
+* Flowering & fruiting stages (fruit damage)","Major pest in:
+
+* India
+* Bangladesh
+* Southeast Asia
+* Africa
+* Middle East
+* South America
+
+Common in tropical and subtropical climates.","* Practice crop rotation with non-host crops like legumes or cereals.
+* Remove and destroy infested fruits and shoots immediately.
+* Use trap crops such as marigold around the main crop.
+* Maintain field sanitation by removing crop residues after harvest.
+* Prune lower branches to improve sunlight and airflow.
+* Use mulching to discourage pest movement and infestation.
+* Set pheromone traps at uniform height for maximum effectiveness.
+* Avoid planting brinjal near older, infested fields."
+Small Leaf Disease,"Physiological / Viral / Phytoplasma Disorder
+(Depending on cause)","Leaves (mainly), young shoots, branches, occasionally flowers","Small Leaf Disease is characterized by the formation of abnormally small, narrow, and pale leaves. Leaf blades remain underdeveloped while veins become disproportionately prominent. Plants show excessive branching (witches’-broom effect), stunted growth, shortened internodes, and poor flowering. Leaves may appear leathery, thick, or spoon-shaped. Severe infections cause significant growth reduction and poor yield. Caused by viral/phytoplasma infection, nutrient imbalance (Zn/B deficiency), or stress conditions.",Moderate,"* High populations of vectors (leafhoppers, jassids, whiteflies)
+* Warm weather with high humidity
+* Nutrient deficiencies (Zinc, Boron)
+* Soil pH imbalance
+* Continuous cropping of susceptible varieties
+* Plant stress due to drought or poor soil conditions
+* Presence of infected weeds
+* Nursery contamination","(Works for nutrient/stress-related small leaves, not for viral/phytoplasma)
+
+1. Apply micronutrient sprays (Zn, B) to correct deficiency.
+2. Improve irrigation schedule to reduce stress.
+3. Remove damaged leaves to promote new growth.
+4. Enhance soil with compost or organic matter.
+5. Adjust soil pH if too acidic/alkaline.
+6. Remove weeds and alternate hosts nearby.
+7. Use neem oil or soap spray to reduce vector pressure.
+
+⚠️ Virus/phytoplasma-infected plants do NOT recover naturally.","Because this is NOT a fungal disease, chemicals ONLY target vectors, not the disease itself.
+
+Use any ONE insecticide to control vector insects:
+
+* Imidacloprid 17.8% SL – Controls leafhoppers/whiteflies
+* Thiamethoxam 25% WG – Systemic vector control
+* Acetamiprid 20% SP – Highly effective on sap-suckers
+* Spirotetramat 15% OD – Controls all nymphal stages
+* Lambda-cyhalothrin 5% EC – Knockdown control
+
+Micronutrient Correction Sprays:
+
+* Zinc Sulfate (0.5–1% foliar spray)
+* Boron (boric acid 0.2%)
+* Cal-Mag foliar spray
+
+Spray interval: Every 7–10 days for vector control.","* Use certified virus-free seeds and seedlings.
+* Maintain proper plant spacing.
+* Apply balanced fertilizers, including micronutrients.
+* Install yellow sticky traps to monitor vectors.
+* Keep the field weed-free.
+* Use neem oil or botanicals regularly.
+* Avoid planting near infected gardens/fields.
+* Ensure nursery protection with insect nets.","* Leaves appear very small, narrow, pale
+* Shortened internodes and bushy appearance
+* Excessive branching (“witches’-broom”)
+* Stunted overall growth
+* Deformed or reduced flowering
+* Presence of vector insects (leafhoppers/whiteflies)
+* Laboratory tests (ELISA/PCR) for viral or phytoplasma confirmation",7 to 20,"* Poor leaf area reduces photosynthesis
+* Severe growth stunting
+* Reduced flowering and fruit set
+* Small, deformed fruits
+* Yield loss can reach 30–70% depending on cause","All stages, but most noticeable during:
+
+* Early vegetative stage
+* Flowering stage
+* Early fruit development","Observed globally, especially in:
+
+* India
+* Southeast Asia
+* Africa
+* Mediterranean regions
+* Central & South America
+
+Most common in areas with high vector populations.","* Practice crop rotation with non-host crops.
+* Use insect-proof nets for seedlings.
+* Remove infected plants early, especially if virus/phytoplasma is confirmed.
+* Improve soil health with compost and organic amendments.
+* Maintain field sanitation—remove weeds, debris, and infected plants.
+* Prune overcrowded branches for airflow.
+* Avoid excess nitrogen, which promotes vector attraction.
+* Use mulching to reduce soil stress.
+* Intercrop with repellent plants like marigold or garlic."
+Tobacco Mosaic Virus,Viral Disease,"Leaves, stems, young shoots, flowers, fruits (indirect effects)","Tobacco Mosaic Virus causes a distinct mosaic pattern of light and dark green areas on leaves. Leaves may become mottled, distorted, wrinkled, or narrowed. Plants show stunted growth, reduced leaf size, and delayed flowering. Fruits may appear smaller, unevenly ripened, and discolored. TMV is extremely stable and spreads easily through contaminated hands, tools, soil, infected plant material, and mechanical contact, not primarily by insects.",Moderate,"* Warm temperatures (20–30°C)
+* Mechanical injury to leaves
+* Handling plants after smoking tobacco
+* Contaminated tools, hands, clothing
+* Continuous cropping of solanaceous plants
+* Presence of infected crop debris
+* Lack of sanitation practices","⚠️ Virus cannot be cured — only managed.
+
+1. Remove infected leaves or entire plants to prevent spread.
+2. Avoid touching healthy plants after handling infected ones.
+3. Wash hands and tools with soap or 1% bleach solution.
+4. Maintain good airflow by pruning dense foliage.
+5. Disinfect seed trays and nursery tools.
+6. Use neem oil or botanical sprays to discourage mechanical spread via pests.
+7. Remove weeds that can harbor TMV.
+8. Provide supportive nutrition to strengthen plant growth.","⚠️ There is NO chemical cure for TMV.
+Chemicals only help control pests that may assist in mechanical spread.
+
+You may use:
+
+* Neem oil (2–3%) – preventive surface protection
+* Insecticidal soap – reduce vector activity
+* Sanitizing agents (1% bleach, disinfectants) for tools and hands","* Use certified virus-free seeds and seedlings.
+* Wash hands thoroughly before handling plants.
+* Sterilize tools with bleach or alcohol before use.
+* Do not use tobacco products near plants.
+* Remove and destroy infected plants immediately.
+* Avoid touching plants when leaves are wet.
+* Maintain good spacing to minimize leaf contact.
+* Disinfect nursery trays, pots, and tools regularly.
+* Use resistant/tolerant varieties if available.","* Mosaic (light–dark green) leaf patterns
+* Leaf wrinkling, distortion, narrowing
+* Stunted plant growth
+* Poor fruit set and uneven fruit ripening
+* Lab tests (ELISA, PCR) for virus confirmation
+* Rub-inoculation tests in research labs",No recovery,"* Reduced leaf area → low photosynthesis
+* Stunted plant growth and poor vigor
+* Deformed fruits with color-breaking
+* Lower fruit size and reduced marketability
+* Yield loss ranges from 20–80% depending on infection stage","All stages can be affected, but most damaging when infection occurs during:
+
+* Seedling stage
+* Early vegetative stage
+* Early flowering","Occurs worldwide, especially in:
+
+* India
+* Southeast Asia
+* Africa
+* Europe
+* North & South America
+
+TMV is common in both tropical and temperate regions due to its strong survival capability.","* Practice crop rotation with non-host crops for at least 2–3 years.
+* Solarize soil to reduce virus presence.
+* Remove infected plant debris immediately after harvest.
+* Maintain weed-free fields (weeds can harbor TMV).
+* Avoid excessive pruning to limit mechanical transmission.
+* Use gloves when handling plants.
+* Keep nurseries isolated from infected fields.
+* Implement strict sanitation protocols for workers and tools."
+TubacooCaterpillar,Insect Pest (Leaf-feeding caterpillar),"Leaves (primary), tender shoots, buds, flowers, young fruits","Tobacco Caterpillar causes severe defoliation by feeding on leaves, leaving irregular holes, skeletonized leaves, and complete leaf destruction in heavy infestations. Early instar larvae scrape the leaf surface, while older larvae feed voraciously on entire leaves. In severe outbreaks, only leaf veins remain. Larvae may also feed on flowers and developing fruits. Plants become weak, stunted, and produce fewer or smaller fruits.",Moderate,"* Warm and humid climate
+* Rainy and post-rainy seasons
+* Dense foliage with high humidity
+* Presence of alternate host weeds
+* Overuse of nitrogen fertilizers
+* Poor field sanitation
+* Continuous cropping of susceptible crops","1. Handpick early-stage larvae and egg masses.
+2. Destroy infested leaves to reduce larval buildup.
+3. Use light traps at night to attract and kill adult moths.
+4. Encourage natural enemies—birds, parasitoid wasps (*Trichogramma*), spiders.
+5. Spray neem oil (3%) or NSKE 5% weekly to reduce early larval stages.
+6. Maintain weed-free surroundings to remove breeding sites.
+7. Deep plough soil to expose pupae.","Use ONE of the following insecticides (according to recommended dosage):
+
+* Emamectin Benzoate 5% SG – Very effective against larvae
+* Spinosad 45% SC – Strong stomach poison for caterpillars
+* Flubendiamide 20% WG – Long-lasting control
+* Chlorantraniliprole 18.5% SC – Highly effective on all larval stages
+* Lambda-cyhalothrin 5% EC – Fast knockdown
+* Indoxacarb 14.5% SC – Good control for mature larvae
+
+Spray interval: Every 10–12 days depending on infestation.
+Note: Rotate chemical groups to avoid resistance.","* Install pheromone traps @ 15–20 traps per hectare.
+* Maintain field sanitation—remove crop residues.
+* Avoid excessive nitrogen fertilizers that attract pests.
+* Use disease-free and pest-free seedlings.
+* Maintain proper spacing to reduce humidity.
+* Apply neem oil regularly as a preventive measure.
+* Keep field borders free from host weeds.","* Irregular holes and huge feeding patches on leaves
+* Skeletonized leaves (only veins remain)
+* Caterpillars hiding under leaves during day
+* Egg masses on underside of leaves
+* Moths attracted to light at night
+* Field scouting early morning or late evening",7 to 20,"* Severe leaf loss → reduced photosynthesis
+* Poor flowering and fruit development
+* Stunted growth and weak plants
+* Yield loss ranges from 20–60%, severe outbreaks >70%","All stages, but most severe during:
+
+* Vegetative stage (heavy defoliation)
+* Flowering stage
+* Early fruit development","Common in:
+
+* India
+* Bangladesh
+* Southeast Asia
+* Africa
+* Middle East
+* South America
+
+Thrives in warm, humid climates with dense vegetation.","* Practice crop rotation with non-host crops.
+* Deep ploughing to expose and destroy pupae.
+* Remove egg masses found on underside of leaves.
+* Use trap crops such as castor around the field.
+* Intercrop with repellent plants like marigold or garlic.
+* Use light traps and pheromone traps for monitoring.
+* Maintain mulching to discourage pest movement.
+* Harvest crops timely to reduce pest overlap."
+VerticilliumWilt,Fungal Disease (Soil-borne),"Roots, stems, vascular system, leaves (indirect wilt symptoms)","Verticillium Wilt causes a gradual wilting of lower leaves, followed by yellowing and browning. Leaves may curl upward before drying and falling. The disease progresses upward, causing partial plant wilt. Cutting the stem reveals light brown to dark streaks in the vascular tissue. Plants become stunted, weak, and produce fewer flowers and fruits. Unlike bacterial wilt, wilting is slow and progressive, often occurring on one side of the plant.",Moderate,"* Cool to warm soil temperatures (20–28°C)
+* Dry weather followed by irrigation
+* Soil with long-term Verticillium contamination
+* Poor crop rotation practices
+* Low soil fertility
+* Water stress (drought increases severity)
+* Plant injury at roots allowing fungal entry","(Only for mild cases; disease is systemic and persists in soil)
+
+1. Remove wilted leaves to reduce plant stress.
+2. Improve irrigation consistency to avoid drought stress.
+3. Add compost or organic matter to improve soil health.
+4. Mulch to stabilize soil moisture.
+5. Prune affected branches to improve airflow and sunlight.
+6. Remove nearby weeds and alternate hosts.
+7. Avoid working around plants when soil is wet (reduces spread).
+
+⚠️ Severe infections do not recover, and soil remains infected for years.","⚠️ No chemical completely cures Verticillium Wilt, but soil and root-zone fungicides provide partial suppression.
+
+Possible management options include:
+
+* Carbendazim drenching – partial suppression
+* Trichoderma viride / harzianum – biological control
+* Soil solarization for 4–6 weeks before planting
+* Bio-fungicide drenches (Pseudomonas fluorescens)
+
+Important: Fungicides are far less effective once fungus reaches vascular tissues.","* Use resistant or tolerant varieties whenever available.
+* Ensure proper crop rotation for 3–4 years with non-host crops.
+* Improve soil fertility with compost and organic matter.
+* Avoid drought stress — water consistently.
+* Avoid root injury caused by cultivation tools.
+* Remove infected plants and burn them away from the field.
+* Avoid planting susceptible crops in infected soil.
+* Sterilize tools to prevent spread.","* Gradual wilting starting from lower leaves
+* One-sided wilting on stems or branches
+* Yellowing, browning, leaf curl
+* Browning of vascular tissue when stem is cut longitudinally
+* Stunted growth and reduced fruiting
+* Laboratory confirmation through fungal isolation / PCR",7 to 20 / No recovery,"* Stunted plants with weak growth
+* Reduced flowering and fruit setting
+* Smaller and fewer fruits
+* Severe infections cause 20–70% yield loss
+* Soil remains contaminated, affecting future crops","All stages, but most severe during:
+
+* Vegetative stage
+* Flowering stage
+* Early fruiting","Verticillium wilt occurs worldwide, especially in:
+
+* India
+* USA
+* Europe
+* Canada
+* Southeast Asia
+* Mediterranean regions
+
+Common in soils used repeatedly for solanaceous crops.","* Practice deep ploughing to bury infected residues.
+* Grow non-host crops like cereals or grasses to reduce soil inoculum.
+* Use solarization during hot months to kill soil fungi.
+* Improve drainage — Verticillium thrives in dry but compacted soils.
+* Apply thick organic mulch to promote beneficial microbes.
+* Remove and destroy infected plants early.
+* Intercrop with repellent or resistant varieties when possible.
+* Add well-rotted compost to enhance soil microbial activity."
+Wet Rot,"Fungal / Bacterial Disease
+(Choanephora, Rhizopus, Pectobacterium)","Stems, leaves, flowers, fruits (especially tender or overripe tissues)","Wet Rot begins as soft, water-soaked lesions on stems or fruits. Affected tissues become mushy, slimy, and emit a foul smell. Lesions expand rapidly under humid conditions. Fruits collapse, leak fluid, and develop wet, slimy, rotten patches. In fungal wet rot (Choanephora), black pin-headed fungal structures appear on rotting tissues. Leaves may droop and collapse if rot reaches nodes. The disease spreads fast in rainy and humid seasons.",Moderate,"* High humidity & continuous rainfall
+* Waterlogging or poor field drainage
+* Overhead irrigation
+* Injured fruits/stems that allow pathogen entry
+* Dense canopy with poor airflow
+* Warm temperatures (25–32°C)
+* Presence of decaying plant residues","1. Remove and destroy infected fruits, stems, and debris immediately.
+2. Improve airflow by pruning dense foliage.
+3. Reduce irrigation — avoid wetting foliage.
+4. Provide support to plants to prevent fruits touching soil.
+5. Increase sunlight exposure to reduce moisture buildup.
+6. Apply neem oil (2–3%) or botanical fungicides weekly.
+7. Improve soil drainage to prevent water stagnation.
+8. Use mulch to prevent soil splash onto fruits.","Use ONE of the following fungicides / bactericides (as per recommended dosage):
+
+* Copper Oxychloride 50% WP – Effective against early infections
+* Chlorothalonil 75% WP – Broad-spectrum protection
+* Mancozeb 75% WP – Protects against fungal wet rot
+* Metalaxyl + Mancozeb – Useful if oomycetes are involved
+* Streptocycline + Copper fungicide – For bacterial soft rot suppression
+* Azoxystrobin 250 SC – Strong systemic + protective action
+
+Spray interval: Every 7–10 days during humid weather.
+Important: Remove decayed material before spraying.","* Maintain proper plant spacing for airflow.
+* Avoid overhead irrigation; water at base only.
+* Train plants so fruits do not contact soil.
+* Remove decaying plant residues from the field.
+* Harvest fruits on time; overripe fruits rot easily.
+* Use resistant varieties when available.
+* Improve drainage using raised beds.
+* Apply preventive fungicide treatments during rainy cycles.","* Soft, water-soaked, mushy lesions on stems/fruits
+* Slimy, foul-smelling decomposition (bacterial wet rot)
+* Black fungal pinheads (Choanephora wet rot)
+* Rapid fruit collapse
+* Water-soaked streaks on stems/nodes
+* Laboratory culture/microscopy for confirmation (optional)",5 to 15,"* Rapid fruit rot → direct marketable loss
+* Flower drop and fruit abortion
+* Weak plant structure and stunting
+* Yield loss ranges from 20–50%, severe cases up to 70%
+* High post-harvest losses due to fast rot development","All stages, but most severe during:
+
+* Flowering
+* Fruit development
+* Rainy/humid seasons","Common in:
+
+* India
+* Southeast Asia
+* Africa
+* South America
+* Tropical & subtropical regions
+* Areas with high rainfall or poor drainage","* Rotate crops regularly to reduce pathogen buildup.
+* Use mulching to reduce soil splash and moisture extremes.
+* Support vines and heavy fruit-bearing stems with stakes.
+* Remove infected fruits and stems daily during monsoon.
+* Avoid injuring fruits during harvesting or handling.
+* Ensure good ventilation by pruning lower leaves.
+* Solarize soil before planting in heavily infected fields.
+* Maintain clean field borders and remove weeds."
+White Mold Disease,Fungal Disease,"Stems, leaves, flowers, fruits, pods, collar region","White Mold Disease causes water-soaked lesions on stems or leaves that quickly enlarge. Infected tissues become soft and pale. A distinctive white, cottony fungal growth appears on affected areas, especially under humid conditions. As the disease progresses, hard black structures called sclerotia form inside or outside the infected tissue. These survive in soil for years. Severe infection leads to stem breakage, wilting, plant collapse, and fruit rot.",Moderate,"* Cool to moderate temperatures (15–25°C)
+* High humidity (>85%)
+* Continuous moisture on plant surface
+* Dense canopy and poor airflow
+* Frequent rainfall or overhead irrigation
+* Presence of sclerotia in soil from previous crops
+* Excessive nitrogen fertilizers creating lush growth","(Works only for mild infections; heavy infections require removal)
+
+1. Remove infected stems, leaves, and fruits immediately.
+2. Improve airflow through pruning and proper spacing.
+3. Reduce irrigation; avoid wetting stems and leaves.
+4. Increase sunlight exposure to reduce humidity.
+5. Apply neem oil or biological fungicides weekly.
+6. Remove soil or mulch contaminated with sclerotia.
+7. Use raised beds to improve drainage.
+8. Avoid handling plants when they are wet.","Use ONE of the following fungicides (as per recommended dosage):
+
+* Carbendazim 50% WP – Good systemic action
+* Thiophanate Methyl – Effective on stem and fruit rot
+* Prochloraz – Broad-spectrum fungal control
+* Boscalid + Pyraclostrobin – Very effective against Sclerotinia
+* Iprodione 50% WP – Strong protective & curative action
+* Fludioxonil – Excellent for rot prevention
+
+Spray interval: Every 7–12 days depending on humidity.
+Important: Remove infected tissues before spraying.","* Maintain good spacing to increase airflow.
+* Avoid overhead irrigation; water at the base early morning.
+* Prune excess foliage to reduce humidity inside canopy.
+* Apply preventive fungicides during cool, wet seasons.
+* Remove old crop debris that may contain sclerotia.
+* Use resistant/tolerant varieties if available.
+* Use crop rotation for 2–3 years to reduce soil inoculum.
+* Avoid excessive nitrogen fertilization that encourages dense growth.","* Water-soaked stem or leaf lesions
+* White cottony fungal growth (most characteristic)
+* Hard black sclerotia inside stems or on soil
+* Sudden wilting or collapse of plant
+* Fruit or pod rot
+* Lab confirmation via fungal isolation or microscopy",7-20 / No recovery,"* Premature plant death
+* Reduced flowering and pod/fruit formation
+* Soft rot leading to unmarketable produce
+* Yield loss ranges from 20–70%, severe outbreaks up to 80–90%","All stages can be affected, but most severe during:
+
+* Flowering
+* Early fruiting
+* Cool, humid weather periods","Common in:
+
+* India
+* Europe
+* USA
+* Canada
+* South America
+* Southeast Asia
+* Temperate & subtropical regions with cool, moist climate","* Deep plough soil to bury sclerotia at depths where they cannot germinate.
+* Rotate with non-host crops like cereals and grasses.
+* Solarize soil for 4–6 weeks to reduce pathogen load.
+* Use mulching to prevent soil splash and reduce humidity swings.
+* Maintain weed-free fields; weeds host the fungus.
+* Collect and destroy infected plant parts immediately.
+* Use raised beds for better drainage.
+* Sterilize tools regularly to avoid spread."
+Yellow Disease,"Physiological / Viral / Nutritional Disorder
+(Depending on the cause: nutrient deficiency, virus, phytoplasma, or stress)","Leaves (primary), shoots, stems (indirect), whole plant vigor","Yellow Disease is characterized by uniform or patchy yellowing of leaves, beginning from the older leaves in nutrient deficiency cases, or from upper leaves in viral infections. Leaves become pale, thin, and chlorotic, while veins may remain green (interveinal chlorosis). Plants show reduced growth, weak stems, poor flowering, and delayed fruit development. In severe cases, leaves may dry prematurely. Causes include nitrogen or iron deficiency, virus infection, water stress, or root damage.",Moderate,"* Poor soil fertility
+* High rainfall leading to nutrient leaching
+* Over-irrigation or drought
+* Soil pH imbalance (affects nutrient uptake)
+* Viral spread through aphids, whiteflies, leafhoppers
+* Poor drainage
+* Shaded or overcrowded planting
+* Stress conditions (heat, root damage, transplant shock)","(Works well for nutrient/stress-related yellowing)
+
+1. Apply nitrogen-rich fertilizers (urea/compost) for general yellowing.
+2. Foliar spray iron (Fe) or micronutrients for interveinal chlorosis.
+3. Improve irrigation schedule—avoid overwatering.
+4. Enhance soil health with compost and organic matter.
+5. Increase sunlight exposure and airflow.
+6. Remove yellowed leaves to promote new growth.
+7. Correct soil pH using lime (for acidic soil) or gypsum (for alkaline).
+8. Use neem oil spray to reduce virus-carrying vectors.
+
+⚠️ Viral yellow disease does NOT recover naturally — infected plants should be removed.","Chemical treatment depends on cause:
+
+For nutrient deficiency:
+
+* Urea spray (2%) for nitrogen deficiency
+* Iron chelate (Fe-EDTA) 0.5% foliar spray
+* Micronutrient mixtures containing Zn, B, Mg
+
+For viral yellowing (vector control):
+
+* Imidacloprid 17.8% SL – Controls aphids/whiteflies
+* Thiamethoxam 25% WG – Systemic control
+* Acetamiprid 20% SP – Controls leafhoppers & aphids
+* Spirotetramat 15% OD – Controls nymphal stages
+
+⚠️ There is no chemical that cures viral yellow leaf disease.
+Only vector control reduces spread.","* Maintain balanced fertilization including micronutrients.
+* Keep field free from weeds that harbor viruses and pests.
+* Install yellow sticky traps for early insect detection.
+* Use certified virus-free seeds.
+* Ensure proper irrigation management.
+* Improve soil with organic compost.
+* Maintain good spacing to reduce humidity and stress.
+* Use resistant/tolerant varieties if available.","* Uniform or patchy leaf yellowing
+* Interveinal chlorosis (veins stay green, leaf becomes yellow)
+* Stunted plant growth
+* Poor flowering and fruiting
+* Presence of sap-sucking insects (aphids, whiteflies)
+* Soil or tissue analysis for nutrient deficiencies
+* Lab testing (ELISA/PCR) for viral confirmation",5-20 / No recovery,"* Reduced photosynthesis
+* Weak plant growth
+* Poor flowering and fruit set
+* Small, low-quality fruits
+* Yield loss ranges from 10–50%, severe viral cases up to 70%","All stages, but more visible during:
+
+* Vegetative stage
+* Flowering stage
+* Early fruit development","Found globally in:
+
+* India
+* Southeast Asia
+* Africa
+* Europe
+* North & South America
+
+Common in areas with:
+
+* Poor soil fertility
+* High vector pressure
+* Stress-prone environmental conditions","* Practice crop rotation to reduce soil exhaustion.
+* Remove and destroy severely infected plants.
+* Maintain good field sanitation to prevent virus/pest buildup.
+* Use mulching to maintain soil moisture balance.
+* Prune overcrowded leaves to improve sunlight.
+* Avoid overuse of nitrogen fertilizers that induce soft, weak leaves.
+* Use insect-proof nets in nursery and early stages.
+* Solarize soil to reduce pathogen presence."
