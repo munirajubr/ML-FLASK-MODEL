@@ -60,7 +60,3 @@ The `Dataset/` folder contains CSV files used by the models, including:
 - [Harshita Sakaray](https://github.com/harshita-sakaray26)
 - [Gunashree H M](https://github.com/gunashree-hm)
 - [Disha S Kashipati](https://github.com/Disha-S-Kashipati)
-
-## Notes
-
-- This README is a concise overview. If you'd like, I can expand sections (example: API endpoints, detailed model training steps, or add a LICENSE file).
